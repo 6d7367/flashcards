@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import tkinter as tk
+import random
 
 DEFAULT_DATA_FILE = "data/eo-en.txt"
 
@@ -10,15 +11,19 @@ class Mode():
 		with open(path_to_dict, 'r') as f:
 			for line in f:
 				line = line.strip()
+
 				# comment/empty line
 				if line.startswith('#') or (len(line) < 1):
 					continue
+
 				try:
-					orig, translated = line.split(':')
-					self.data.append({ "original": orig.strip(), "translated": translated.strip() })
+					original, translated = line.split(':')
+					self.data.append({ "original": original.strip(), "translated": translated.strip() })
 				except Exception as e:
 					msg = "Error on '{}' line".format(line.strip())
 					print(msg)
+
+		self.data_len = len(self.data)
 
 
 	def start(self, root):
@@ -35,10 +40,10 @@ class FlashCardsMode(Mode):
 		fnt = ("Helvetica", 29)
 
 		self.text_top = tk.StringVar(root)
-		self.text_top.set("TEXT TOP")
+		self.text_top.set("")
 
 		self.text_bottom = tk.StringVar(root)
-		self.text_bottom.set("TEXT TOP")
+		self.text_bottom.set("")
 
 		label1 = tk.Label(frm1, textvar = self.text_top , font = fnt)
 		label2 = tk.Label(frm2, textvar = self.text_bottom, font = fnt)
@@ -51,8 +56,19 @@ class FlashCardsMode(Mode):
 
 		root.bind('<Button-1>', self.show_next)
 
+		self.show_next()
+
 	def show_next(self, *args, **kwargs):
-		pass
+		if self.data_len < 1:
+			return
+
+		new_pair_number = random.randint(0, self.data_len - 1)
+		new_pair = self.data[new_pair_number]
+
+		self.text_top.set(new_pair['original'])
+		self.text_bottom.set(new_pair['translated'])
+
+
 
 
 class App(tk.Tk):
