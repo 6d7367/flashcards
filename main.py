@@ -31,6 +31,11 @@ class FlashCardsMode(Mode):
 		frm1.pack(side = tk.TOP, expand = 1)
 		frm2.pack(side = tk.BOTTOM, expand = 1)
 
+		root.bind('<Button-1>', self.show_next)
+
+	def show_next(self, *args, **kwargs):
+		pass
+
 
 class App(tk.Tk):
 	def __init__(self, mode):
