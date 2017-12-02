@@ -2,7 +2,25 @@
 
 import tkinter as tk
 
+DEFAULT_DATA_FILE = "data/eo-en.txt"
+
 class Mode():
+	def __init__(self, path_to_dict):
+		self.data = []
+		with open(path_to_dict, 'r') as f:
+			for line in f:
+				line = line.strip()
+				# comment/empty line
+				if line.startswith('#') or (len(line) < 1):
+					continue
+				try:
+					orig, translated = line.split(':')
+					self.data.append({ "original": orig.strip(), "translated": translated.strip() })
+				except Exception as e:
+					msg = "Error on '{}' line".format(line.strip())
+					print(msg)
+
+
 	def start(self, root):
 		pass
 
@@ -47,9 +65,8 @@ class App(tk.Tk):
 		self.mode = mode
 		self.mode.start(self)
 
-
 if __name__ == '__main__':
-	mode = FlashCardsMode()
+	mode = FlashCardsMode(DEFAULT_DATA_FILE)
 	app = App(mode)
 
 	app.mainloop()

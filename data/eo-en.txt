@@ -1,0 +1,3276 @@
+########################################################
+# Source: http://esperantofre.com/zagreb/eoang2500.htm #
+########################################################
+
+-adi : d. repetition, duration
+diradi : to keep on saying
+-ado : d. action
+martelado : hammering
+-aĵo : d. concrete ideas
+manĝaĵo : food
+-ano : d. member
+kolegiano : member of college
+Amerikano : american (person)
+-ant- : e. of pres. part. act.
+-aro : d. collection
+meblaro : set of furniture
+homaro : mankind
+-at- : e. of pres. part. pas.
+-ebla : d. possibility
+kredebla : believable, credible
+ebla : possible
+eble : perhaps
+-eco : d. abst. idea
+grandeco : size, largeness
+amikeco : friendship
+-eg- : d. increase
+ventego : gale (storm)
+-ejo : d. place allotted to
+lernejo : school
+-ema : d. propensity, inclination
+laborema : industrious
+-er- : d. part of, fragment of, piece of
+monero : coin (n)
+-estro : d. chief
+urbestro : mayor (of town)
+-et- : d. diminution
+monteto : hill
+-ido : d. offspring
+ŝafido : lamb
+-igi : d. causing to be
+blankigi : to whiten (tr)
+boligi : to boil (tr)
+-iĝi : d. becoming
+paliĝi : to turn pale
+moviĝi : to move (intr)
+-ilo : d. instrument, tool
+tranĉilo : knife
+-inda : d. worthy of
+laŭdinda : laudable, praiseworthy
+-ino : d. feminines
+virino : woman
+patrino : mother
+-int- : e. past part. act.
+-is : d. past tense
+-ismo : d. -ism
+komunismo : communism
+-isto : d. profession
+dentisto : dentist
+-it- : d. past part. pass.
+-obla : -fold
+duobla : twofold, double
+-ona : d. fractions
+duono : half (n)
+kvarono : quarter (n)
+-ont- : e. fut. part. act.
+-ot- : e. fut. part. pass.
+-ujo : d. container
+monujo : purse, wallet
+-ulo : d. individual, fellow
+junulo : youth, young person
+krimulo : criminal (person)
+-um- : (indefinite suffix)
+plenumi : to fulfil
+-us : e. of conditional
+bo- : d. relation by marriage
+bofrato : brother-in-law
+ĉef- : chief
+ĉefa : main, principal
+ĉefurbo : capital (town)
+dis- : d. separation
+disdoni : to distribute, give out
+dissendi : to send out, transmit
+ek- : d. beginning of action
+ekvidi : to notice
+ekkrii : to cry out (suddenly)
+ge- : d. both sexes
+gepatroj : parents
+gefratoj : brothers and sisters
+mal- : d. opposites
+malriĉulo : pauper
+re- : d. again, back
+rekomenci : to begin again
+reveni : to return (intr)
+ajn : d. -ever
+kiu ajn : whoever
+kio ajn : whatever
+al : to
+aliĝi al : to join (society, etc)
+almenaŭ : at least
+ambaŭ : both
+ankaŭ : also
+ankoraŭ : yet, still
+anstataŭ : instead of
+anstataŭi : to replace (be a replacement for)
+anstataŭigi : to replace (find a replacement for)
+antaŭ : before, in front of
+antaŭ du jaroj : two years ago
+malantaŭ : behind
+apenaŭ : scarcely
+apud : close to
+baldaŭ : soon
+cent : hundred
+ĉar : because
+ĉe : at
+ĉe rivero : at a river
+ĉi : d. proximity in here, this, etc
+ĉi tie : here
+ĉia : every kind of
+ĉiam : always
+ĉie : everywhere
+ĉio : everything
+ĉirkaŭ : around, about
+ĉiu : each, every one
+ĉu : whether, d. question
+ĉu vere? : really?
+dek : ten
+du : two
+dudek : twenty
+dum : during, while
+dume : meanwhile
+eĉ : even (adv)
+ekster : outside (prep)
+ekstere : outside (adv)
+el : out of
+en : in (prep)
+de : of, from, by
+for : away, off
+foriri : to go away
+forĵeti : to throw away
+ĝi : it
+ĝia : its
+ĝis : until, as far as
+ha! : ah!
+hieraŭ : yesterday
+antaŭhieraŭ : the day before yesterday
+ho! : oh!
+hodiaŭ : today
+ia : some kind of
+iam : at some time
+iama : sometime (adj)
+ie : somewhere
+ili : they, them
+ilia : their
+inter : between, among
+internacia : international
+io : something
+da : of (quantity)
+iom : a little, some
+iu : someone
+jam : already
+je : (indefinite preposition)
+je la kvara : at four o'clock
+je la 25a de Decembro : on the 25th of December
+jen : here is, here are, etc
+ja : in fact, indeed
+jes : yes
+juna : young
+maljuna : old (not young)
+junulo : youth, young person
+ĵus : just, just now (a moment ago)
+kaj : and
+kia : what kind of
+kial : why
+kiam : when
+kie : where
+kiel : how, as
+kies : whose
+kio : what (thing)
+kiom : how much
+kiu : who, which
+kontraŭ : against
+kontraŭstari : to oppose
+kontraŭulo : opponent
+krom : besides, apart from
+kun : with
+kune : together
+kvankam : although
+kvar : four
+kvazaŭ : as if, as though
+kvin : five
+laŭ : according to
+aŭ : or
+li : he, him
+lia : his
+mem : -self, -selves
+mi mem : I myself
+mi : I, me
+mia : my
+mil : thousand
+morgaŭ : tomorrow
+postmorgaŭ : the day after tomorrow
+naŭ : nine
+nek : neither...nor
+nenia : no kind of
+neniam : never
+nenie : nowhere
+nenio : nothing
+neniu : nobody
+ni : we, us
+nia : our
+nu : well, now
+nun : now
+nuntempe : at present
+nur : only (adv)
+nura : mere
+ok : eight
+okdek : eighty
+oni : one, people, they
+onia : ones
+onidiro : rumour, hearsay
+per : by means of
+plej : most
+la plejparto de : most of
+malplej : least
+ol : than
+pli ol : more than
+pli : more
+pligrandigi : to enlarge (tr)
+malpli : less
+plu : further, longer
+por : for
+post : after, behind
+post tri tagoj : in three days (time)
+preskaŭ : almost
+preter : beyond
+pri : concerning, about
+priskribi : to describe
+pro : owing to, on account of
+se : if
+sed : but (conj)
+sen : without
+senpera : direct
+sep : seven
+ses : six
+si : (reflexive pronoun)
+sia : his/her/its own
+sub : under
+sube : underneath (adv)
+subskribi : to sign (document)
+super : over, above
+supera : superior
+supersigno : accent, diacritic
+sur : upon, on
+surmeti : to put on (clothing)
+ŝi : she, her
+ŝia : her (adj)
+tamen : however
+tia : such a
+tial : therefore
+tiam : then, at that time
+tie : there
+ke : that (conj)
+tiel : thus, so
+tio : that (thing)
+tiom : so much
+tiu : that (one)
+tra : through
+trans : across
+transigi : to transfer
+transiri : to cross (tr) (eg road)
+tre : very
+treege : extremely
+tri : three
+tro : too (much)
+trouzi : to overuse
+troigi : to exaggerate
+tuj : immediately
+tuja : immediate
+ne : no, not
+unu : one
+unuiĝi : to unite (intr)
+unueco : unity
+unuafoje : the first time (adv)
+vi : you
+via : your
+afero : matter, affair, business, thing
+alia : other
+alta : high
+ami : to love
+amiko : friend
+bela : beautiful, fine
+bona : good
+ĉambro : room
+demandi : to ask
+devi : to have to, must
+deziri : to desire, wish, want
+diri : to say, tell
+doni : to give
+esti : to be
+facila : easy
+faciligi : to facilitate
+fari : to do, make
+feliĉa : happy
+fini : to finish (tr)
+flanko : side
+fojo : time (occasion)
+refoje : again
+dufoje : twice (two times)
+formo : form, shape
+forta : strong
+granda : big, large, great
+grava : important, serious
+ĝoji : to be glad, rejoice
+havi : to have
+helpi : to help
+homo : human being, person
+infano : child
+iri : to go
+reiri : to return (intr)
+jaro : year
+jarcento : century
+juna : young
+kampo : field
+kamparo : countryside
+kapo : head
+kelka : some, a few
+klara : clear
+klarigi : to explain
+komenci : to begin (tr)
+komenciĝi : to begin (intr)
+kompreni : to understand
+kompreneble : of course
+koni : to know (be acquainted with)
+konato : acquaintance (person)
+konatiĝi : to become acquainted (with person)
+koro : heart
+kredi : to believe, think
+labori : to work
+kunlabori : to cooperate, work together
+senlabora : unemployed
+senlaboreco : unemployment
+senlaborulo : unemployed person
+lando : country (nation)
+landlimo : border (national)
+lasta : last, latest
+lastatempa : recent
+legi : to read
+lerni : to learn
+lernejo : school
+levi : to lift, raise
+libera : free
+malliberejo : prison, gaol
+loĝi : to live, dwell
+loĝejo : lodgings, rooms
+transloĝiĝi : to move (house)
+loĝantaro : population, inhabitants
+loko : place, locality
+loka : local (adj)
+longa : long
+antaŭnelonge : recently
+mano : hand
+meti : to put, place
+militi : to wage war
+milito : war
+mondo : world
+ofta : frequent, common
+ofte : often
+okazi : to happen, occur
+okazaĵo : occurrence
+paroli : to speak, talk
+patro : father
+patrino : mother
+peti : to ask for (tr), request
+plena : full
+porti : to carry, wear
+kunporti : to bring along, have with one (tr)
+povi : to be able, can
+preni : to take
+proksima : near, nearby
+proksimiĝi : to approach (intr)
+rapida : quick, rapid, fast
+respondi : to reply, answer
+resti : to remain, stay
+resto : rest, remainder
+ricevi : to obtain, get, receive
+riĉa : rich
+malriĉa : poor
+ridi : to laugh
+rideti : to smile
+ruĝa : red
+sama : same
+samopinii : to agree (have same opinion)
+malsama : different
+scii : to know (a fact)
+sekvi : to follow
+sendi : to send
+sidi : to sit, be sitting
+sidiĝi : to sit down
+sinjoro : gentleman, Mr
+sinjorino : lady, Mrs
+skribi : to write
+stari : to stand
+starigi : to set up, establish
+elstara : outstanding, prominent
+memstara : independent
+ŝajni : to seem, appear
+ŝajne : apparently
+ŝajnigi : to feign, pretend
+tago : day
+taglibro : diary
+tagmanĝo : lunch
+tagmezo : midday, noon
+posttagmezo : afternoon
+tagordo : agenda
+ĉiutaga : daily 
+tempo : time, tense
+samtempa : simultaneous
+teni : to hold, grasp, maintain, keep
+tero : earth, ground
+la terglobo : the Earth
+tuta : whole, entire
+tute : completely
+tutmonda : world-wide
+veni : to come
+reveni : to return (intr)
+alveni : to arrive
+kunveni : to meet (intr)
+veturi : to go by vehicle, travel
+vidi : to see
+vidpunkto : viewpoint
+antaŭvidi : to foresee
+viro : man, male (n)
+virino : woman
+vivi : to live
+travivi : to survive
+senviva : dead, lifeless
+vojo : way, road, route
+voli : to wish, want
+nevola : involuntary
+vorto : word
+vortaro : dictionary
+laŭvorte : literally
+montri : to show
+montriĝi : to appear (be seen)
+morti : to die
+mortigi : to kill
+mortinta : dead (which was living)
+movi : to move (tr)
+moviĝi : to move (intr)
+multa : much, many
+multnombra : numerous
+nacio : nation
+naciismo : nationalism
+nomo : name
+nova : new
+denove : again
+malnova : old (not new)
+aĉeti : to buy
+afabla : kind, affable
+akvo : water
+arbo : tree
+arbaro : wood, forest
+arto : art
+atendi : to wait, await, expect
+aŭdi : to hear
+bati : to beat, strike
+bezoni : to need
+bildo : picture
+birdo : bird
+blanka : white
+bruli : to burn (intr)
+buŝo : mouth
+certa : certain, sure
+ĉevalo : horse
+ĉielo : heaven, sky
+danki : to thank
+dankon! : thank you!
+danka : grateful
+danke al : thanks to
+dekstra : right-hand
+maldekstra : left-hand
+dolĉa : sweet
+domo : house
+dormi : to sleep
+edzo : husband
+edzino : wife
+edziĝi : to get married (man)
+edziniĝi : to get married (woman)
+geedziĝi : to get married (man and woman) 
+fali : to fall
+familio : family
+fenestro : window
+fermi : to shut, close (tr)
+malfermi : to open (tr)
+malfermita : open (adj)
+filo : son
+fingro : finger
+flugi : to fly
+frato : brother
+fraŭlo : batchelor
+fraŭlino : Miss
+frua : early
+frumatene : early in the moring
+frukto : fruit
+halti : to stop (intr)
+haro : hair
+hejmo : home
+hejme : at home
+horo : hour
+interesi : to interest
+intereso : interest (n)
+ĵeti : to throw
+kanti : to sing
+knabo : boy
+knabino : girl
+koloro : colour
+konsili : to advise
+konstrui : to build
+korto : court, courtyard
+kortumo : court (of justice)
+kosti : to cost
+multekosta : expensive
+kreski : to grow (intr)
+krii : to cry, shout
+kuri : to run
+kuraĝa : brave, courageous
+lasi : to leave, let
+letero : letter (correspondence)
+libro : book
+lingvo : language
+lito : bed
+enlitiĝi : to go to bed
+lumi : to shine (intr)
+lumo : light (n)
+luma : light (adj)
+malluma : dark
+manĝi : to eat
+manĝo : meal (eg dinner)
+manĝaĵo : food
+manki : to be lacking, missing
+manko : lack (n)
+maro : sea
+mateno : morning
+memori : to remember
+miri : to be amazed, marvel
+mono : money
+monero : coin (n)
+monujo : purse, wallet
+monto : mountain
+monteto : hill
+muro : wall
+naski : to give birth to
+naskiĝi : to be born
+necesa : necessary
+necesejo : toilet, lavatory
+nigra : black
+okulo : eye
+okulvitroj : glasses (spectacles)
+okupi : to occupy, keep busy
+okupita : busy
+paco : peace
+pagi : to pay
+senpaga : free (gratis)
+parto : part
+pasi : to pass (intr)
+pasigi : to pass (time) (tr)
+peco : piece, bit
+pensi : to think
+pripensi : to consider, think about (tr)
+perdi : to lose
+permesi : to permit, allow
+malpermesi : to forbid
+permesita : allowed
+permesiĝi : to be allowed
+persono : person, personality
+piedo : foot (of body)
+piediri : to walk (intr)
+popolo : people (a people)
+pordo : door
+postuli : to require, demand
+premi : to press
+prezenti : to present
+propra : (ones) own
+propraĵo : property, perculiarity
+provi : to try, attempt, try out, test
+punkto : point (dot, in space, in time, question)
+pura : pure, clean
+purigi : to clean, purify
+malpuriĝi : to get dirty
+rajto : right, authority
+rajti : to be entitled to
+rakonti : to tell, narrate
+regi : to rule, govern, control
+registaro : government
+renkonti : to meet, encounter (tr)
+renkontiĝi : to meet (intr)
+rigardi : to look at, deem, consider
+rimarki : to notice
+rimarkinda : remarkable
+rimedo : means, resource
+monrimedoj : financial resources
+semajno : week
+semajnfino : weekend
+senti : to feel (sentiments)
+serĉi : to look for, seek
+simpla : simple
+simpligi : to simplify
+sola : lone, alone, only, sole
+soleca : lonely
+soni : to sound (intr)
+sono : sound (n)
+suno : sun
+sunlumo : sunlight
+sunvitroj : sunglasses
+ŝanĝi : to change (tr)
+ŝanĝiĝi : to change (intr)
+tablo : table (furniture)
+timi : to fear
+timigi : to frighten
+timema : timid
+tiri : to draw, pull
+trankvila : quiet, calm, tranquil
+trinki : to drink
+turni : to turn (tr)
+urbo : town, city
+uzi : to use
+valoro : worth, value
+valori : to be worth
+valora : valuable
+varma : warm, hot
+varmigi : to warm, heat
+vento : wind
+ventego : gale (storm)
+vera : true
+verŝajne : probably
+malvera : untrue
+vespero : evening
+vesto : garment
+vizaĝo : face
+vojaĝi : to travel
+vojaĝo : journey
+aero : air
+agrabla : pleasant, enjoyable
+aĝo : age
+akcepti : to accept, receive (guests)
+amaso : crowd, mass (large number)
+angulo : corner
+aparta : separate (adj)
+apartigi : to separate
+aperi : to appear
+atenta : attentive
+aŭskulti : to listen to
+aŭtuno : autumn
+avo : grandfather
+batali : to fight
+besto : animal, beast
+blua : blue
+bordo : shore, bank
+brako : arm
+brili : to shine (intr)
+brui : to make a noise
+bruo : noise
+celo : aim, purpose
+ĉapelo : hat
+daŭro : duration
+dento : tooth
+dio : god
+dika : thick, fat
+direkto : direction
+diversa : varied, various
+doloro : pain
+dubi : to doubt
+dubinda : dubious
+ekzemplo : example
+elekti : to choose, elect
+erari : to make a mistake, be wrong
+esperi : to hope
+fajro : fire
+fero : iron (metal)
+festi : to celebrate
+festo : party (festivity)
+fiŝo : fish
+floro : flower
+forgesi : to forget
+frapi : to hit, strike
+fremda : foreign
+fremdulo : foreigner
+gaja : gay, merry
+gajni : to gain, earn, win
+malgajni : to lose
+gazeto : magazine, periodical
+glaso : drinking-glass, tumbler
+ĝardeno : garden
+ĝusta : right, correst, exact
+hela : clear, bright
+historio : history, story
+hundo : dog
+ideo : idea
+interna : inner, inside, internal
+justa : just, fair, equitable
+kalkuli : to calculate, reckon
+kapti : to catch, capture
+kara : dear
+karul(in)o : darling
+kaŝi : to hide, conceal
+kato : cat
+kaŭzo : cause
+kaŭzi : to cause
+kolo : neck
+kolekto : collection
+koleri : to be angry
+kolerigi : to anger
+komerci : to trade, do business (intr)
+komuna : common
+komunismo : communism
+konduki : to lead, bring, drive, conduct
+konsenti : to agree, consent
+kontenta : satisfied, pleased, content
+korpo : body
+kovri : to cover
+kuiri : to cook
+kuirejo : kitchen
+kuŝi : to lie down
+kutimo : custom, habit
+laca : weary, tired
+lacigi : to tire (tr)
+lakto : milk
+larĝa : broad, wide
+lavi : to wash
+ligi : to tie, bind, link
+ligo : league, connection
+ligno : wood (the substance)
+linio : line
+ludi : to play
+marko : mark, make (of goods), stamp (eg postage)
+poŝtmarko : postage-stamp
+mezo : middle, mean (average)
+meznombro : average (n)
+mezuri : to measure (tr)
+minuto : minute
+momento : moment
+monato : month
+naturo : nature
+nazo : nose
+neĝo : snow
+nokto : night
+tranokti : to pass the night
+nombro : number, amount
+nombri : to count (tr)
+nubo : cloud
+nul : nought, zero
+onklo : uncle
+onklino : aunt
+opinii : to think (have an opinion)
+opinio : opinion
+ordo : order, arrangement
+ordigi : to arrange, put in order
+ordoni : to order, command
+orelo : ear
+pano : bread
+papero : paper
+pardoni : to forgive, pardon
+paŝi : to step, stride
+paŝo : step (n)
+peni : to endeavour, try
+senpene : without difficulty
+planko : floor
+plendi : to complain
+plezuro : pleasure
+plori : to cry, weep
+plumo : pen
+pluvo : rain
+pluvi : to rain
+prava : right (in opinion, etc)
+precipa : chief, main, principal
+preta : ready
+printempo : spring (season)
+profunda : deep
+ripozi : to repose, rest
+rivero : river
+rompi : to break (tr)
+rompiĝi : to break (intr)
+interrompo : interruption
+rondo : round, ring, circle
+ronda : round (adj)
+rozo : rose
+salti : to leap, jump
+saluti : to salute, greet
+saluton! : hullo!
+sana : healthy, well
+malsana : ill, sick
+sango : blood
+sata : full, satiated
+malsata : hungry
+seĝo : seat, chair
+servi : to serve
+silenti : to be silent
+silentema : taciturn
+somero : summer
+speco : kind, sort, variety
+stacio : station
+stacidomo : railway-station (building)
+stato : state, condition
+strato : street
+suferi : to suffer
+sufiĉa : sufficient, enough
+sukero : sugar
+supro : top, summit
+supre : above, on top (adv)
+malsupre : below (adv)
+supraĵo : surface (exterior)
+ŝipo : ship
+ŝtono : stone
+tranĉi : to cut (with knife)
+tranĉilo : knife
+tuŝi : to touch, concern
+utila : useful
+senutila : useless
+vagono : coach, carriage (train)
+veki : to arouse, wake up (tr)
+vekhorloĝo : alarm-clock
+vendi : to sell
+vendejo : shop (n)
+vendisto : salesman
+verda : green
+vetero : weather
+vilaĝo : village
+vintro : winter
+vitro : glass (substance)
+voki : to call, summon
+alvoki : to summon
+zorgi : to care for, be concerned about
+zorgo : care (n)
+zorge : carefully
+zorgema : careful (by nature)
+adreso : address
+agi : to act
+amuzi : to amuse
+animo : soul
+Aprilo : April
+aranĝi : to arrange
+arĝento : silver
+atingi : to attain, reach
+Aŭgusto : August
+azeno : donkey
+bani : to bath, bathe (tr)
+sin bani : to have a bath
+benko : bench, seat
+bovo : ox
+bruna : brown
+brusto : chest, breast
+butero : butter
+cetera : remaining
+ĉesi : to cease (intr)
+danĝero : danger
+sendanĝera : safe (adj)
+Decembro : December
+decidi : to decide
+dimanĉo : Sunday
+donaco : donation, present, gift
+dorso : back (n)
+efektiva : real, actual
+efiki : to have an effect (intr)
+egala : equal
+ekzisti : to exist
+estimi : to esteem, think highly of
+Februaro : February
+fiksa : fixed
+fiksi : to fix
+flava : yellow
+flui : to flow
+fluaĵo : fluid (n)
+folio : leaf, sheet (of paper)
+fonto : spring, source
+freŝa : fresh, new
+fundo : bottom, background
+gardi : to guard, keep
+genuo : knee
+glacio : ice
+greno : corn, grain, cereals
+griza : grey
+grupo : group
+herbo : grass
+horloĝo : clock, watch
+inko : ink
+insekto : insect
+instrui : to teach
+instruisto : teacher
+intenci : to intend
+inviti : to invite
+Januaro : January
+juĝi : to judge
+antaŭjuĝo : prejudice (n)
+Julio : July
+Junio : June
+ĵaŭdo : Thursday
+kafo : coffee
+kapabla : capable, able
+karto : card, map
+klaso : class
+klini : to tilt, incline (tr)
+koko : cock, rooster
+kompati : to pity
+konservi : to keep, preserve
+korbo : basket
+koverto : envelope
+krajono : pencil
+krei : to create
+kruco : cross (n)
+kruro : leg
+kuko : cake
+kulero : spoon
+kulpa : guilty, to blame (adj)
+kulpo : blame (n)
+kulpigi : to accuse, blame
+senkulpa : blameless, innocent
+senkulpigi : to excuse, find innocent
+kuraci : to treat medically
+kuracisto : doctor (medical)
+kuzo : cousin (male)
+kuzino : cousin (female)
+lago : lake
+lango : tongue
+leĝo : law (piece of legislation)
+laŭleĝa : legal (not illegal)
+kontraŭleĝa : illegal
+lerta : skilful, clever
+limo : limit
+limigi : to limit, restrict
+luno : moon
+lundo : Monday
+Majo : May
+maniero : way, manner
+tiamaniere : in that way
+mardo : Tuesday
+marŝi : to walk, march
+Marto : March
+mastro : master (of house, servants)
+merkredo : Wednesday
+moki : to mock
+mola : soft
+malmola : hard (durable)
+muziko : music
+Novembro : November
+numero : number (of house, ticket, etc)
+objekto : thing, object
+ofico : employment, office, post
+Oktobro : October
+ombro : shadow, shade
+ordinara : ordinary
+ovo : egg
+paĝo : page (of book)
+pako : packet, parcel
+pendi : to hang (intr)
+pendigi : to hang (tr)
+pendumi : to hang (execute)
+peza : heavy
+pezi : to weigh (intr)
+plaĉi : to please, be pleasing
+plafono : ceiling
+porko : pig (animal)
+poŝo : pocket
+poŝto : post, mail
+poŝtkarto : postcard
+poŝtmarko : postage-stamp
+poŝtoficejo : post-office
+preferi : to prefer
+preferinda : preferable
+prepari : to prepare
+produkto : product
+produkti : to produce
+promeni : to take a walk or outing
+promesi : to promise
+prunto : lending, borrowing
+prunti : to borrow, lend
+pruntepreni : to borrow
+pruntedoni : to lend
+puŝi : to push, thrust (tr)
+radio : beam, ray, radio
+radistacio : radio-station
+regiono : region
+reĝo : king
+rekta : straight, direct
+rektilo : ruler (for drawing lines)
+religio : religion
+ripeti : to repeat
+ruli : to roll (tr)
+ruliĝi : to roll (intr)
+rulo : roller, roll
+sabato : Saturday
+saĝa : wise
+sako : sack
+seka : dry
+malseka : wet
+senco : sense (meaning, direction)
+sensenca : senseless
+Septembro : September
+serioza : serious, earnest
+simila : like, similar
+malsimila : different
+spiri : to breathe
+spirito : spirit, mind
+stelo : star
+studi : to study
+studobjekto : course, unit of study
+sukcesi : to succeed
+sukceso : success
+malsukceso : failure
+sumo : sum, amount
+sumigi : to add up, total (tr)
+ŝafo : sheep
+ŝafido : lamb
+ŝati : to value, appreciate, like
+ŝlosi : to lock
+ŝlosilo : key (for lock)
+ŝtato : state (nation)
+ŝtatano : citizen (of country)
+ŝteli : to steal
+ŝtelisto : thief
+ŝtupo : step (of stairs)
+ŝtuparo : staircase, stairs
+telero : plate (for food)
+teruro : terror
+teruri : to terrify
+tondi : to clip, shear, cut (with scissors)
+tondilo : scissors
+trafi : to hit the mark
+maltrafi : to miss
+truo : hole
+vaporo : steam, vapour
+vasta : wide, huge, vast
+disvastigi : to spread widely (tr)
+vendredo : Friday
+verko : work (literary)
+verki : to write, compose
+vino : wine
+viziti : to visit
+voĉo : voice
+unuvoĉa : unanimous
+akiri : to acquire, get
+akompani : to accompany
+akra : sharp
+anonci : to announce
+aparteni : to belong
+apartenaĵo : possession (thing possessed)
+apogi : to support, lean on
+aprobi : to approve
+armi : to arm, reinforce
+armo : weapon
+ataki : to attack
+atakema : aggressive
+avara : miserly, mean
+averti : to warn
+balai : to sweep
+baro : bar, barrier
+barbo : beard
+bastono : stick
+bedaŭri : to regret
+beko : beak
+blovi : to blow
+boli : to boil (intr)
+boligi : to boil (tr)
+botelo : bottle
+branĉo : branch
+broso : brush
+butono : button
+cifero : figure, numeral
+ĉapitro : chapter
+ĉasi : to chase, hunt
+ĉemizo : shirt
+ĉiel : in every way
+danci : to dance
+defendi : to defend
+delikata : delicate
+densa : dense, thick
+desegni : to draw, design
+diferenci : to differ, be different
+diferenca : different, differing
+doktoro : doctor (not necess. medical)
+ebena : even, level
+eduki : to educate, bring up
+estingi : to extinguish
+eviti : to avoid
+fadeno : thread
+fako : compartment, subject (of study)
+fakulo : specialist (person)
+fakto : fact
+fakte : in fact
+falsa : false
+falsi : to falsify (tr)
+fama : famous
+fidela : faithful
+fiera : proud
+firma : firm (adj)
+flago : flag
+flegi : to nurse (the sick)
+forko : fork
+forno : stove, furnace
+fosi : to dig
+fosilo : spade
+foso : ditch
+fromaĝo : cheese
+frunto : forehead
+fumo : smoke
+gaso : gas
+gasto : guest
+gliti : to glide, slide, slip
+graso : fat, grease
+guto : drop, drip
+gvidi : to guide
+ĝeni : to inconvenience, disturb, hamper
+ĝenerala : general (adj)
+ĝentila : polite
+haŭto : skin
+hejti : to heat
+honesta : honest
+honoro : honour
+honti : to be ashamed
+ial : for some reason
+iel : somehow
+ies : someones
+imagi : to imagine
+imiti : to imitate
+industrio : industry
+informi : to inform
+insulo : island
+jako : jacket
+kajero : exercise-book
+kameno : fireplace, hearth
+kapro : goat
+karbo : coal
+kelo : cellar
+kesto : chest, box
+kilogramo : kilogram
+kisi : to kiss
+kombi : to comb
+kombilo : comb (n)
+komforta : comfortable
+kompari : to compare
+kondiĉo : condition, stipulation
+konduti : to behave
+konfesi : to confess
+konscii : to be conscious, be aware
+konsisti : to consist (intr)
+konsisti el : to consist of
+konsisto : composition
+konsistigi : to constitute
+konstanta : constant, permanent, standing
+konvena : suitable, appropriate
+korespondi : to correspond (by mail)
+korno : horn
+kravato : necktie
+krimo : crime
+krimulo : criminal (person)
+kulturi : to cultivate
+kulturo : culture
+kuvo : tub, vat
+kvieta : quiet, calm
+lampo : lamp
+leciono : lesson
+legomo : vegetable
+lipo : lip
+litero : letter (of alphabet)
+maŝino : machine
+skribmaŝino : typewriter
+matura : ripe, mature
+meblo : piece of furniture
+mendi : to order (goods)
+mensogi : to tell a lie
+mensogo : lie (n)
+meriti : to deserve, merit
+metalo : metal
+mieno : mien, look, expression
+miksi : to mix (tr)
+miliono : million
+minaci : to threaten
+muŝo : fly (insect)
+naĝi : to swim
+najbaro : neighbour
+nepo : grandson
+nepra : unfailing, without fail
+nevo : nephew
+nordo : north
+noto : note, mark, grade
+obei : to obey
+okcidento : west
+oleo : oil
+ondo : wave
+oro : gold
+organizi : to organise
+oriento : east
+osto : bone
+pacienca : patient (adj)
+pafi : to shoot, fire
+mortpafi : to shoot dead
+pantalono : trousers
+paro : pair, couple
+parenco : relative, relation
+pasto : paste, dough
+peli : to drive, propel
+forpeli : to chase away
+pentri : to paint (a picture)
+piki : to prick, sting
+pilko : ball (for games)
+pinglo : pin
+pinto : tip, point, apex
+planti : to plant
+planto : plant (n)
+plata : flat, plane
+plugi : to plough
+pluraj : several
+polico : police
+policano : policeman
+poluro : shine, lustre
+poluri : to polish
+polvo : dust
+pomo : apple
+ponto : bridge
+posedi : to possess
+posedaĵo : possession (thing possessed)
+poto : jug, pot, can, jar
+praktiko : practice
+praktiki : to practise (eg profession)
+praktika : practical
+preciza : precise, accurate
+preĝi : to pray
+preĝejo : church (building)
+premio : prize
+presi : to print
+presejo : printer, press (n)
+prezo : price
+progresi : to progress
+progreso : progress (n)
+progresema : progressive
+publiko : public (n)
+publika : public (adj)
+puni : to punish
+monpuno : fine (punishment)
+rado : wheel
+rando : edge, rim
+regno : state, realm
+regulo : rule
+regula : regular (a system)
+laŭregula : regular (a case)
+rekomendi : to recommend
+respekti : to respect
+reto : net, network
+rezulti : to result
+rezulto : result (n)
+rifuzi : to refuse
+rikolti : to harvest, reap
+rilati : to relate to, refer to
+ripari : to repair, mend
+riproĉi : to reproach, tell off
+salo : salt
+sankta : holy
+sanktulo : saint
+sapo : soap
+savi : to save, rescue
+scienco : science
+sekreto : secret
+semo : seed
+serio : series
+serpento : snake, serpent
+sezono : season
+signo : sign, token
+skatolo : small box, case, tin
+skrapi : to scrape
+soifi : to be thirsty
+soifa : thirsty
+soldato : soldier
+sorto : lot, destiny, fate
+speciala : special, especial
+speciale : in particular
+spegulo : mirror
+sperta : experienced, expert (adj)
+spertulo : expert (person)
+spezi : to spend/receive money
+enspezo : income
+elspezi : to spend (money)
+spico : spice, seasoning
+stranga : odd, strange, peculiar
+streĉi : to stretch, wind up (tr)
+malstreĉiĝi : to relax (intr)
+subita : sudden
+subite : suddenly
+sudo : south
+supo : soup
+surda : deaf
+ŝanco : chance (of success)
+bonŝanco : good fortune
+ŝarĝo : load, burden
+ŝerci : to joke, jest
+ŝerco : joke (n)
+ŝiri : to tear, rip (tr)
+ŝnuro : string, cord
+ŝoveli : to shovel
+ŝovelilo : shovel (tool)
+ŝranko : cupboard
+ŝtrumpo : stocking
+ŝtrumpeto : sock (n)
+ŝuo : shoe
+tabulo : plank, board
+taso : cup
+taŭga : suitable, fitting, adequate
+taŭga : appropriate, suitable
+sentaŭgulo : good-for-nothing (person)
+teo : tea
+tegmento : roof
+telefono : telephone
+tolo : linen (cloth)
+tremi : to tremble, quiver
+trompi : to deceive, cheat
+trovi : to find
+troviĝi : to be located
+tualeto : toilette (dress)
+tuko : (a piece of) cloth
+tusi : to cough
+ungo : fingernail, claw
+valo : valley
+vango : cheek
+venki : to conquer, defeat, win
+viando : meat
+vico : row, rank, turn
+laŭvice : in order, in turn
+vigla : alert
+viŝi : to wipe
+volonta : willing, glad
+volvi : to wrap, roll up
+vosto : tail
+vundo : wound, injury
+vundi : to wound, injure
+abio : fir
+abunda : abundant, plentiful
+acida : acid, sour
+adiaŭ : goodbye
+adiaŭi : to say goodbye
+aglo : eagle
+agordo : tuning, mood
+akcidento : accident, mishap
+alumeto : match (for fire)
+aparato : apparatus
+armeo : army
+artikolo : article (journalism, grammar)
+aspekti : to look, seem
+aŭtobuso : bus
+aŭtomato : automaton
+aventuro : adventure
+babili : to chat, chatter
+balono : balloon
+banko : bank (financial)
+bankbileto : bank-note
+bero : berry
+bieno : estate, property
+biero : beer
+bileto : ticket
+blinda : blind
+blonda : fair, blond
+boto : boot
+brasiko : cabbage
+breto : shelf
+briko : brick
+bulo : lump, chunk
+burĝo : bourgeois (person)
+centro : centre
+cigaredo : cigarette
+ciklo : cycle
+citrono : lemon
+ĉapo : cap
+ĉarma : charming
+ĉifono : rag
+ĉokolado : chocolate
+dato : date (time)
+datreveno : anniversary
+daŭr/igi : to continue (tr)
+deklivo : slope
+des : so much the, the...THE
+ju pli grande, des pli bone : the bigger the better
+des pli bone! : so much the better!
+detrui : to destroy
+dezerto : desert
+difekti : to damage, spoil
+difini : to define
+diligenta : diligent
+direktoro : director, manager
+diskuti : to discuss
+distanco : distance
+distri : to distract, divert, entertain
+diveni : to guess
+dividi : to divide
+domaĝi : to begrudge, think a pity
+estas domaĝe, ke : it is a pity that
+drato : wire
+droni : to drown (intr)
+eksciti : to exite
+ekskursi : to make an excursion
+ekzameni : to examine
+ekzameno : exam
+ekzerci : to exercise (tr)
+elektro : electricity
+embaraso : embarrassment, difficulty
+energio : energy
+enui : to feel bored
+epoko : epoch, age, period
+esplori : to explore, study, investigate
+esprimi : to express
+etaĝo : storey, floor
+etendi : to spread, extend (tr)
+eterna : eternal
+evidenta : obvious, evident
+evolui : to develop, evolve (intr)
+fajfi : to whistle
+faldi : to fold (tr)
+faldo : fold (n)
+fandi : to melt (tr)
+farmi : to farm (tr)
+farti : to fare, be (well or unwell)
+kiel vi fartas? : how are you?
+faruno : flour
+fasko : bundle
+favora : favourable, advantageous
+ferio : holiday
+fianĉo : fiance, betrothed man
+fidi : to trust, rely on
+fidinda : reliable
+figuro : figure, form
+filmo : film
+flamo : flame
+floso : raft
+fojno : hay
+forĝi : to forge (metal)
+fortika : robust, sturdy
+fotografi : to photograph
+frandi : to relish (a delicacy)
+freneza : mad, insane
+frosto : frost
+froti : to rub
+fulmo : lightning
+glata : smooth
+globo : globe
+gluo : glue
+gorĝo : throat
+gracia : graceful
+grado : degree (temperature, angle), grade
+grimpi : to climb (intr)
+grundo : soil, earth
+gusto : taste
+ĝemi : to groan, moan
+ĝui : to enjoy (tr)
+haki : to chop, hew
+haveno : port, harbour
+heziti : to hesitate
+hirundo : swallow (bird)
+hotelo : hotel
+humila : humble
+humoro : humour, mood
+instinkto : instinct
+jupo : skirt
+kadro : frame, framework
+kamarado : comrade
+karaktero : character
+karoto : carrot
+kaserolo : saucepan
+kataro : catarrh
+kaŭĉuko : rubber
+kavo : cavity, hollow
+kelnero : waiter
+klera : cultured, educated
+klingo : blade
+komitato : committee
+komuniki : to communicate
+koncerni : to concern
+kongreso : congress
+konsideri : to consider
+konsoli : to console, comfort
+konstati : to establish (a fact), ascertain
+kotono : cotton
+kremo : cream
+krevi : to burst (intr)
+kroĉi : to hook, hang up (tr)
+kruda : raw, rough
+kudri : to sew
+kurbo : curve
+kurioza : curious (strange)
+kurso : course
+kvadrato : square (n)
+kvalito : quality
+kvanto : quantity
+lama : lame
+lano : wool
+larmo : tear (of eye)
+laŭdi : to praise
+laŭdinda : laudable, praiseworthy
+laŭta : load, aloud
+ledo : leather
+leono : lion
+leporo : hare
+litro : litre
+logi : to entice, lure
+alloga : attractive
+lui : to rent, hire (from somebody)
+luigi : to rent, hire (to somebody)
+lukso : luxury
+magazeno : large shop, store, magazine (eg of gun)
+majstro : master (of art or profession)
+makulo : stain, spot
+senmakula : immaculate
+malgraŭ : in spite of
+maniko : sleeve
+mantelo : coat, cloak
+martelo : hammer
+masoni : to do masons work
+materialo : material, data
+matraco : mattress
+membro : member
+mentono : chin
+metio : handicraft, trade
+metro : metre
+milda : mild, gentle
+mizero : misery, poverty
+modo : fashion, vogue
+moro : habit, custom
+mordi : to bite
+mueli : to grind (corn, etc)
+murmuri : to murmur
+muta : dumb, mute
+najlo : nail
+nebulo : fog
+nesto : nest
+nuda : naked, bare
+nutri : to nourish, feed
+odori : to smell (intr)
+oferti : to offer, bid
+oportuna : convenient, handy
+oranĝo : orange (fruit)
+oranĝ(kolor)a : orange (adj)
+organo : organ
+origino : origin
+ornami : to adorn, decorate
+pajlo : straw
+pala : pale (adj)
+partio : party (faction), match (game)
+pasporto : passport
+pastro : priest, clergyman
+peki : to sin
+persekuti : to pursue, persecute, prosecute
+pesi : to weigh, find weight of (tr)
+petoli : to frolic, play pranks
+pino : pine-tree
+pipo : pipe (tobacco)
+pizo : pea
+placo : square (in town)
+plado : dish, platter
+plano : plan (n)
+poeto : poet
+politiko : politics
+politikisto : politician
+potenco : power, might
+prezidi : to preside
+prezidanto : chairman, president
+privata : private
+proksimuma : approximate
+protekti : to protect
+protesti : to protest
+prudenta : sensible, reasonable
+pugno : fist
+puto : well (n)
+radiko : root
+rajdi : to ride (horse, bicycle, etc)
+razi : to shave (tr)
+sin razi : to shave (intr)
+reprezenti : to represent
+registro : register, record
+registri : to register (tr)
+relo : rail
+renversi : to upset, overthrow
+restoracio : restaurant
+ringo : ring (n)
+rizo : rice
+roko : rock
+ruza : cunning, crafty
+sablo : sand
+salajro : salary, wages
+sceno : scene
+scivola : inquisitive, curious
+sekundo : second (of time, angle)
+seruro : lock (n)
+severa : severe, strict
+signifi : to mean, signify
+dusignifa : ambiguous
+sincera : sincere
+skalo : scale (measure)
+skulpti : to skulpt, carve
+socio : society, the community
+societo : (good) society
+solido : solid
+solvi : to solve, resolve, dissolve
+sonĝi : to dream (in sleep)
+sonoro : sound, ringing
+spaco : space
+stalo : stall, shed, stable
+standardo : banner
+sterni : to lay out, spread (tr)
+stomako : stomach
+streko : stroke, line
+substreki : to underline
+trastreki : to cross out
+stulta : stupid, silly
+suko : juice, sap
+supozi : to suppose, presume
+surprizi : to surprise
+ŝirmi : to shelter, screen
+ŝpari : to save up, economise
+malŝpari : to waste
+ŝtopi : to stop up, plug
+ŝuldi : to owe
+ŝultro : shoulder
+ŝveli : to swell up
+ŝvito : sweat, perspiration
+tabako : tobacco
+tabelo : list, table
+taksi : to estimate, value
+supertaksi : to overestimate
+tapiŝo : carpet
+tasko : task, job
+teksi : to weave
+telegrafo : telegraph
+temo : topic, theme, subject
+tenti : to tempt
+terpomo : potato
+titolo : title, heading
+toleri : to tolerate
+tombo : tomb, grave
+tombejo : churchyard
+tondro : thunder
+traduki : to translate
+tritiko : wheat
+tubo : tube, pipe
+turo : tower
+urĝi : to be urgent, be pressing
+urĝa : urgent
+valizo : suitcase
+vana : vain, futile
+vato : cotton-wool, wadding
+vazo : vase, vessel
+ve! : woe!, alas!
+ventro : belly, paunch
+vermo : worm
+verso : verse
+verŝi : to pour (tr)
+violo : violet (flower)
+viol(kolor)a : violet (adj)
+zono : girdle, belt
+abelo : bee
+abomeno : abhorance, loathing
+aboni : to subscribe to (magazine, etc)
+adicii : to add, add up
+adjektivo : adjective
+administri : to administer, manage
+admiri : to admire
+admoni : to exhort, admonish
+adopti : to adopt
+advokato : barrister
+afiŝo : poster
+afranki : to pay postage
+akceli : to accelerate, further, promote
+akurata : punctual, prompt
+albumo : album
+alkoholo : alcohol
+almozo : alms
+almozi : to beg
+almozulo : beggar
+amplekso : extent, range
+anaso : duck
+anĝelo : angel
+animalo : animal (not vegetable)
+apartamento : flat, apartment
+apetito : appetite
+apoteko : pharmacy
+araneo : spider
+arda : ardent
+arko : arch, arc
+asekuri : to insure, underwrite
+asocio : association
+atesti : to testify, certify
+aŭto : car
+aŭtomobilo : car
+aŭtoritato : authority
+avenuo : avenue
+aviadilo : aircraft, aeroplane
+avida : eager, greedy
+baki : to bake
+balanci : to rock, swing (tr)
+barakti : to struggle
+barelo : barrel
+bazo : base, basis
+bazaro : market, bazaar
+bebo : baby
+beni : to bless
+malbeni : to curse (tr)
+benzino : petrol
+betulo : birch (tree)
+biblioteko : library
+biciklo : bicycle
+bluzo : blouse
+boato : boat
+boji : to bark (dog)
+bombono : sweet, bonbon
+bori : to bore, drill
+brakumi : to embrace
+brava : worthy, gallant
+bremso : brake
+broŝuro : pamphlet
+brovo : eyebrow, brow
+bubo : brat, urchin
+budo : stall, stand, booth
+bulvardo : boulevard
+butiko : shop
+cedi : to yield, give way
+cemento : cement
+cerbo : brain
+cirkonstanco : circumstance
+citi : to quote
+civilizi : to civilise
+ĉagreni : to annoy, vex, distress
+ĉeko : cheque
+ĉeno : chain
+ĉerizo : cherry
+ĉerpi : to draw (water, etc), to extract
+dependi : to depend, (de/pendi)
+sendependa : independent
+dediĉi : to dedicate
+deficito : deficit
+degeli : to thaw, melt (intr)
+deklari : to declare, state
+dekoracio : decoration, decor
+delegi : to delegate
+deserto : dessert (pudding)
+destini : to ordain, assign
+detalo : detail
+diablo : devil
+disko : disc, record
+sondisko : (gramophone) record
+disputi : to dispute
+distingi : to distinguish (tr)
+distribui : to distribute
+dramo : drama
+drapo : (woollen) cloth
+dungi : to employ, hire
+maldungi : to sack (employee)
+duŝo : shower (bath)
+ebria : drunk
+ebriulo : drunkard
+ekonomio : economy
+eksperimento : experiment
+eksplodi : to explode (intr)
+ekstrema : extreme
+ekvilibro : equilibrium, balance (n)
+elturniĝi : to escape, extricate oneself, (el/turn/iĝi)
+elefanto : elefant
+eleganta : elegant
+eminenta : eminent, distinguished
+emocio : emotion
+enigmo : enigma, puzzle, riddle
+entrepreni : to undertake
+envii : to envy
+escepti : to except, exclude
+senescepte : without exception
+esenco : essence
+Esperanto : Esperanto
+Esperantisto : Esperantist
+ezoko : pike (fish)
+fabriko : factory
+fanfaroni : to boast, brag
+farbo : paint (n)
+faŭko : jaws, mouth (of animal)
+febro : fever
+felo : hide, skin (of animal)
+fendo : crack, fissure
+fervora : fervant, zealous
+festeni : to feast, hold banquet
+financo : finance
+fiziko : physics
+flari : to smell (tr)
+fleksi : to bend (tr)
+flirti : to flutter
+foiro : fair, market
+fondi : to found (establish)
+fonografo : record-player
+fosto : post, prop
+frago : strawberry
+frakasi : to shatter, smash
+frambo : raspberry
+friti : to fry
+frizi : to dress hair
+frizisto : hairdresser
+fulgo : soot
+fundamento : foundation
+funebro : mourning
+funkcio : function
+funto : pound (weight)
+ganto : glove
+garaĝo : garage
+garantii : to guarantee
+genio : genius
+gesti : to gesture
+gladi : to iron
+gloro : glory
+gluti : to swallow
+golfo : gulf, bay
+grajno : grain, pip, granule
+gratuli : to congratulate
+hajlo : hail
+he! : hey!
+heredi : to inherit
+heroo : hero
+hoko : hook
+hospitalo : hospital
+hufo : hoof
+humida : humid
+ĥemio : chemistry
+idealo : ideal
+identa : identical
+ilustri : to illustrate
+imperio : empire
+importi : to import
+imposto : tax
+impreso : impression
+indiferenta : indifferent
+influi : to influence
+inĝeniero : engineer
+inklina : disposed, inclined (to)
+insisti : to insist
+instali : to install
+instigi : to prompt, urge, impel
+instrumento : instrument, tool
+insulti : to insult
+intelekto : intellect
+inteligenta : intelligent
+ju pli : the more...
+ju pli oni pensas... : the more you think...
+juro : law (legal system)
+juvelo : jewel
+ĵaluza : jealous
+ĵuri : to swear, take an oath
+ĵurnalo : newspaper
+ĵurnalisto : journalist
+kabineto : study, office
+kajo : quay, platform
+kalendaro : calendar, diary
+kalkano : heel (of foot)
+kalsono : underpants, trunks
+ban-kalsono : swimming-trunks
+kamiono : lorry, truck
+kandelo : candle
+kanzono : song, ballad
+kapitalo : capital (funds)
+kaprica : capricious
+karesi : to caress, stroke
+kaso : till, cash-box
+kastelo : castle
+kateno : fetter, shackle
+kilometro : kilometre
+kino : the cinema (films)
+kinejo : cinema (theatre)
+kitelo : overall, smock
+kliento : client, customer
+knedi : to knead
+kolumo : collar (of clothing)
+kolono : pillar, column
+komo : comma
+komandi : to command, be in command
+komika : funny, comic
+komisii : to commission, entrust (with task)
+komisiono : commission, subcommittee
+kompleta : complete
+komplezi : to oblige, do a favour for (tr)
+koncerto : concert
+kondamni : to condemn, find guilty
+konferenco : conference
+konfidi : to entrust, confide
+konfirmi : to confirm, corroborate
+konfiti : to preserve (fruit, etc)
+konfuzi : to confuse
+konjekti : to conjecture, make guesses
+konkludi : to conclude, infer
+konkuri : to compete
+konscienco : conscience
+kontrakti : to enter into a contract
+kontroli : to check, verify
+konvinki : to convince
+kopio : copy
+kopii : to copy
+kordo : string, cord
+korko : cork
+koto : mud
+krado : grating, grid
+krano : tap, faucet
+krepusko : twilight
+kreto : chalk
+kripla : crippled, disabled
+kritiki : to critise
+krizo : crisis
+krono : crown
+kruĉo : jug
+kruela : cruel, fierce
+krusto : crust
+kruta : steep
+kubuto : elbow
+kuglo : bullet
+kukolo : cuckoo
+kupro : copper
+kurteno : curtain
+kvartalo : quarter (of a town)
+kverko : oak
+lameno : lamina, thin plate
+leki : to lick
+lifto : lift (n)
+listo : list
+listigi : to list (tr)
+literaturo : literature
+lupo : wolf
+maĉi : to chew
+malvarmumo : cold (illness), (mal/varm/umo)
+mamo : breast, udder
+mamulo : mammal
+mandato : mandate
+mapo : map
+marĉo : marsh
+masto : mast
+mastrumi : to master (eg language)
+medikamento : medicament, medicine
+mediti : to meditate
+meĥaniko : mechanics
+meĥanismo : mechanism
+melki : to milk
+metodo : method
+migri : to migrate
+miliardo : milliard, thousand million
+milimetro : milimetre
+mino : mine (mineral, explosive)
+minus : minus
+mistero : mystery
+modelo : model
+modera : moderate (adj)
+moderigi : to moderate
+moderna : modern
+modesta : modest (not boastful)
+moskito : mosquito
+motoro : motor, engine
+munti : to erect, assemble
+muso : mouse
+muskolo : muscle
+nadlo : needle
+naiva : naive
+naŭzi : to nauseate (tr)
+nenies : no ones
+neniom : not a bit
+nervo : nerve
+neto : fair copy
+neta : neat, clear-cut
+malneto : draft (of document)
+nivelo : level
+nobla : noble (adj)
+nodo : knot, node
+normala : normal
+observi : to observe
+oferi : to sacrifice
+oficiala : official (adj)
+oficialulo : official (person)
+olivo : olive
+ombrelo : umbrella
+operacii : to operate
+operacio : operation
+orfo : orphan
+originalo : original (not a copy)
+originala : original (adj)
+orto : right-angle
+oscedi : to yawn
+paĉjo : daddy
+palaco : palace
+panjo : mummy
+parfumo : perfume
+parko : park (n)
+pasio : passion
+Pasko : Easter
+paŝti : to pasture, feed (eg cattle)
+pato : frying-pan
+patrono : patron
+paŭzi : to pause, make a break
+pejzaĝo : landscape
+pelto : fur
+penetri : to penetrate
+peniko : paint-brush
+penti : to repent
+perfekta : perfect
+perfidi : to betray
+petrolo : petroleum, mineral oil
+pilo : pile, cell of battery
+pinĉi : to pinch, nip
+pioĉo : pick-axe
+piro : pear
+plekti : to weave, plait
+plenumi : to fulfil
+pleto : tray
+plumbo : lead (metal)
+plus : plus
+poemo : poem
+poezio : poetry
+posteno : station, post occupied
+pozicio : position
+preteksto : pretext, excuse
+pretendi : to claim, presume to
+probabla : probable
+problemo : problem
+procedi : to proceed
+proceso : lawsuit
+profesio : profession
+profito : profit
+malprofito : loss (financial)
+prokrasti : to delay
+provizo : provision, supply
+provizi per : to provide with
+prozo : prose
+pruvi : to prove
+pulmo : lung
+pulvo : gunpowder
+pulvoro : powder (anything in powder-form)
+pumpi : to pump
+pupo : doll
+putri : to rot, putrify (intr)
+rabi : to rob, plunder
+rampi : to crawl, creep
+rango : rank, grade
+raporti : to report
+raportisto : reporter
+rato : rat
+ravi : to delight (tr)
+recepto : recipe, prescription
+reciproka : mutual, reciprocal
+regali : to entertain, treat
+reklami : to advertise
+reklamo : advertisement
+reklamado : advertising
+rekompenco : reward
+rekordo : record (unexcelled performance)
+remi : to row
+respubliko : republic
+revi : to dream (awake)
+revuo : review, journal
+rezervo : reserve (n)
+rezigni : to forgo, renounce, give up
+rezisti : to resist
+ribeli : to rebel, mutiny
+ribelulo : rebel (person)
+rifuĝi : to take refuge, shelter
+rifuĝejo : refuge (place)
+ripo : rib
+riski : to risk, hazard
+senriska : safe (adj)
+ritmo : rhythm
+robo : robe, gown, dress
+ronki : to snore, snort
+rosti : to roast
+sagaca : astute, shrewd
+salono : lounge, saloon
+saŭco : sauce
+segi : to saw
+segilo : saw (tool)
+sekretario : secretary
+sekso : sex
+senso : sense (faculty)
+serena : serene, calm
+signalo : signal
+silko : silk
+simio : monkey
+simpatio : liking, fellow-feeling
+sistemo : system
+sitelo : bucket, pail
+sklavo : slave
+skui : to shake (tr)
+sobra : temperate, sober
+sojlo : threshold, sill
+sopiri : to yearn, long for
+sorĉi : to bewitch
+sovaĝa : wild, savage
+sporto : sport
+sprita : witty, lively
+stampo : mark, stamp (something printed or impressed)
+stango : rod, pole
+stilo : style
+strio : stripe, band, strip
+striki : to strike (of workers)
+strukturo : structure
+studento : student
+stumpo : stump, stub
+sufoki : to suffocate, choke (tr)
+surfaco : surface (geometrical)
+suspekti : to suspect
+sveni : to faint, swoon
+svingi : to swing, wave, brandish (tr)
+ŝargi : to load, charge
+ŝelo : shell, peel, rind, bark
+ŝmiri : to smear, anoint
+ŝoforo : driver, chauffeur
+ŝovi : to shove, push forward (tr)
+ŝraŭbo : screw
+ŝraŭbilo : screw-driver
+ŝtalo : steel
+ŝtofo : stuff, material
+ŝuti : to pour out, tip out (tr)
+tajli : to cut (cloth, diamond)
+tajloro : tailor
+teatro : theatre
+tedi : to bore, tire
+tediĝi : to be bored
+tegi : to cover, face, coat
+telegramo : telegram
+temperaturo : temperature
+tempesto : storm, tempest
+tendo : tent
+tendaro : camp (n)
+teorio : theory
+tereno : terrain, ground
+tipo : type (variety)
+tono : tone (note)
+tordi : to wind, twist (tr)
+trajno : train (railway)
+trajto : feature, trait
+trakti : to treat, deal with
+traktoro : tractor
+trempi : to dip, immerse
+treni : to drag, tow
+trezoro : treasure
+triangulo : triangle, (tri/agulo)
+tribunalo : tribunal, court (of justice)
+trikoto : stockinet
+trotuaro : pavement (side of road)
+trunko : trunk, stem
+turmenti : to torment, torture
+urso : bear (animal)
+vakcino : vaccine
+varo : commodity
+varoj : goods
+varii : to vary (intr)
+velo : sail
+velki : to fade, wither (intr)
+veneno : poison
+verbo : verb
+vergo : rod, twig, wand
+verto : crown of the head
+veŝto : waistcoat
+vidvo : widower
+vidvino : widow
+virto : virtue
+vito : vine
+vualo : veil
+vulpo : fox
+abrikoto : apricot
+abrupta : abrupt
+absoluta : absolute
+abstini : to abstain
+absurda : absurd
+-aĉ- : d. contempt
+domaĉo : hovel
+adapti : to adapt, fit
+adori : to adore, worship
+adverbo : adverb
+aflikti : to afflict, distress
+Afriko : Africa
+agento : agent
+agiti : to agitate, stir up
+ajlo : garlic
+akademio : academy
+akcento : accent
+akcio : share (in company)
+akno : pimple, spot
+akordo : agreement
+akrido : locust
+akso : axis, axle
+akto : act (theatre, law)
+aktiva : active
+aktoro : actor
+aktuala : topical, current, present
+akuzi : to accuse
+alarmo : alarm, alert
+alaŭdo : skylark
+aleo : garden-walk, avenue
+alfabeto : alphabet
+algo : seaweed
+alterni : to alternate (intr)
+aludi : to allude, refer to
+aluminio : aluminium
+amara : bitter
+amatoro : amateur, enthusiast
+ambasado : embassy
+ambasadoro : ambassador
+Ameriko : America
+ampolo : bulb (electric)
+anekdoto : anecdote
+angilo : eel
+ansero : goose
+aperturo : aperture
+aplaŭdi : to applaud, clap
+apliki : to apply
+apostolo : apostle
+apro : wild boar
+arbitra : arbitrary
+arterio : artery
+artiko : joint
+asembleo : assembly
+aserti : to state, assert
+asfalto : asphalt
+asisti : to assist (in official capacity)
+Atlantiko : Atlantic
+atomo : atom
+aŭdaca : audacious, daring
+Aŭstralio : Australia
+aŭtoro : author
+avantaĝo : advantage
+aveno : oats
+Azio : Asia
+bacilo : bacillus (bacterium)
+bagatelo : trifle, unimportant thing
+bakterio : bacterium
+balo : ball, dance (n)
+balbuti : to stammer
+baloti : to vote, elect
+bambuo : bamboo
+banano : banana
+bandaĝo : bandage
+banto : bow, bow-tie
+bapti : to baptise
+barbiro : barber
+barko : sailing-craft
+basko : coat-tail, skirt
+bendo : tape, strip, band
+beto : beet, beetroot
+bifsteko : steak
+bindi : to bind (books)
+blasfemi : to blaspheme, swear
+bleki : to cry (of animals)
+bloko : block
+bonvoli : to be so good as to (bon/voli)
+bonvole : please
+borso : stock-exchange
+bovlo : bowl
+braceleto : bracelet, bangle
+brando : spirits, schnapps
+bredi : to breed (tr) raise
+brido : bridle, restraint
+brokanti : to deal in second-hand goods
+bronzo : bronze
+bruto : head of cattle
+buĉi : to slaughter
+budĝeto : budget
+buko : buckle
+bukedo : bouquet
+buklo : curl (of hair)
+bulbo : bulb, onion
+bulko : roll (bread)
+bulteno : bulletin
+burĝono : bud
+centimetro : centimetre
+centralo : telephone-exchange, power-station
+cepo : onion
+cervo : deer
+cigaro : cigar
+cigno : swan
+cikado : cicada
+cikatro : scar
+cikonio : stork
+cinamo : cinnamon
+cindro : ash, cinder
+ciro : shoe-polish
+cirkelo : compasses
+cirklo : circle
+cirkuli : to circulate (eg traffic)
+cirkulero : circular (letter)
+cirkvito : circuit
+civila : civil, civilian
+civito : city-state, civic state
+civitano : citizen
+ĉaro : cart, trolley
+ĉarumo : wheelbarrow
+ĉeesti : to attend, be present
+ĉelo : cell
+ĉerko : coffin
+ĉial : for every reason
+ĉies : everbodys
+ĉifi : to crumple, crease
+ĉiom : every quantity
+-ĉj- : d. masc. affect. diminutives
+paĉjo : daddy
+daktilo : date (fruit)
+dando : dandy, fop
+deteni : to restrain
+debeto : debit
+deci : to be fitting
+deĵori : to be on duty
+deliri : to be delirious
+denunci : to denounce
+deponi : to deposit
+deputi : to depute
+determini : to determine
+devontigi : to compel, (dev/ont/igi)
+dialogo : dialogue
+dianto : carnation
+dieto : diet
+digesti : to digest
+dikti : to dictate
+dimensio : dimension
+disponi : to have at ones disposal
+disponebla : available
+dogano : customs
+dokumento : document
+dorloti : to pamper, pet
+dorno : thorn
+doto : dowry
+dresi : to train, tame
+efekto : effect, impression produced
+egoisto : egotist
+eĥo : echo
+ekipi : to equip, fit out
+eklezio : church (organisation)
+ekrano : screen
+eks- : ex-, formerly
+eksprezidanto : ex-president
+ekspedi : to dispatch, send off
+ekspluati : to exploit
+eksporti : to export
+ekspozicio : exhibition
+ekvatoro : equator
+ekzakta : exact
+ekzekuti : to execute (a criminal)
+eldoni : to publish (a book, etc)
+eldonejo : publisher, publishing-house
+elasta : elastic
+elektroniko : electronics
+elemento : element
+emajlo : enamel
+emerito : retired person, pensioner
+-end- : d. obligation to be -ed
+pagenda : payable
+enketi : to investigate
+epidemio : epidemic
+-er- : d. unit
+eskapi : to escape
+estigi : to bring about, (est/igi)
+establi : to establish
+etapo : stage, step
+etato : statement, returns
+Eŭropo : Europe
+evento : event
+fabo : bean
+fabelo : tale, story
+faco : face (of object)
+fago : beech (tree)
+fajenco : china, earthenware
+falĉi : to mow
+familiara : familiar, informal
+fantazio : fantasy, imagination
+fasado : facade
+fasono : cut (of clothes)
+fasti : to fast
+fazeolo : kidney-bean, haricot
+feo : spirit, fairy
+feĉo : dregs, sludge
+federacio : federation
+felto : felt (material)
+fenomeno : phenomenon
+fi! : shame!, (as prefix) d. shamefulness
+fikomerco : shady business
+figo : fig (fruit)
+fikcio : fiction
+flagri : to flare, flare up
+flati : to flatter
+fliki : to patch, mend
+fluido : fluid
+flustri : to whisper
+fontano : fountain
+foresti : to be absent, (for/esti)
+formiko : ant
+formulo : formula
+fotelo : arm-chair
+frako : dress-coat, full dress
+frazo : sentence
+fripono : rogue, crook
+fronto : frontage, front
+fuĝi : to flee, run away
+funelo : funnel
+fungo : fungus
+furaĝo : to forage
+furioza : furious, raging
+fuŝi : to bungle
+galo : bile, gall
+galoŝo : galosh, overshoe
+garbo : sheaf
+garni : to fit out
+gelateno : gelatine
+generacio : generation
+generalo : general (military)
+gento : tribe, ethnic group
+geografio : geography
+girlando : garland
+glavo : sword
+gobio : gudgeon (fish)
+gramo : gram
+gramatiko : grammar
+grandioza : magnificent, splendid
+grati : to scratch
+graveda : pregnant
+grego : flock, herd
+grimaci : to grimace
+grinci : to grate, creak, grind
+gripo : influenza, flu
+groto : cave
+gruo : crane (bird)
+grumbli : to grumble
+gudro : tar
+gumo : gum, eraser
+gustumi : to taste (tr)
+gvardio : guard (military corps)
+ĝemelo : twin
+ĝendarmo : constable
+ĝermo : germ
+ĝibo : hump
+halo : hall, large room
+hangaro : hangar (for aircraft)
+haringo : herring
+harmonio : harmony
+havigi : to procure, get, (hav/igi)
+hazardo : chance, accident
+heĝo : hedge
+hektaro : hectare
+helikoptero : helicopter
+hepato : liver
+heroldo : herald
+higieno : hygiene
+himno : hymn, anthem
+hordeo : barley
+horizonto : horizon
+horizontalo : horizontal
+humana : humane
+ĥoro : chorus, choir
+iafoje : sometimes
+ignori : to ignore (deliberately)
+impeti : to leap, spring, shoot forwards
+impliki : to entangle, implicate
+impulso : impulse, impetus
+imuna : immune
+inciti : to irritate, incite, exite
+indigni : to be indignant
+indiki : to indicate
+individuo : individual
+indulgi : to be lenient with (tr)
+infekti : to infect
+infero : hell
+-ing- : d. holder
+kandelingo : candlestick
+iniciati : to iniciate, originate (tr)
+injekti : to inject
+insidi : to ensnare
+insigno : badge
+inspektoro : inspector
+inspiri : to inspire
+instanco : authority, official body
+interpelacii : to ask a question in parlament
+interpreti : to interpret
+intesto : intestine
+intima : intimate
+inundi : to flood (tr)
+invalido : disabled person
+inventi : to invent
+ironio : irony
+izoli : to isolate, insulate
+jubileo : jubilee
+jugo : yoke
+juki : to itch (tr)
+jungi : to harness
+kabano : hut, shanty, shack
+kaĉo : mush, mess
+kaduka : decrepit
+kaĝo : cage
+kahelo : tile, flagstone
+kajuto : cabin
+kakao : cocoa
+kakto : cactus
+kalo : corn (on foot)
+kaldrono : boiler
+kalkanumo : heel (of shoe), (kalkan/umo)
+kalumnii : to slander, libel, malign
+kamelo : camel
+kanalo : canal, channel
+kandidato : candidate
+kankro : crayfish
+karafo : carafe, decanter
+karno : flesh
+karnavalo : carnival
+karpo : carp (fish)
+kartono : cardboard
+kaskedo : (peaked) cap
+kaŝtano : chestnut
+katalogo : catalogue
+kategorio : category
+kaverno : cave, cavern
+kazo : case
+kejlo : peg, plug
+kerno : core, kernel
+kioma : which number
+kioma horo? : what time?
+kirurgo : surgeon
+kirurgio : surgery (science)
+klasika : classic, classical
+klimato : climate
+kliniko : clinic
+klopodi : to take steps, endeavour
+klubo : club (society)
+koketa : coquettish
+kokoso : coconut
+kolegio : college
+kolektiva : collective
+kolizii : to collide
+kolombo : pigeon
+kolonelo : colonel (military)
+kolumno : column (newspaper, soldiers, etc)
+kombini : to combine (tr)
+komedio : comedy
+komisaro : commissar
+kompanio : company
+kompensi : to compensate
+kompetenta : competent
+komplemento : complement
+kompliki : to complicate
+komplika : complicated
+komponi : to compose (music, chemical)
+kompromiti : to compromise, jeapardise
+komunumo : community, (komun/umo)
+koncentri : to concentrate (make denser)
+koncepto : concept
+konfidenco : confidence
+konkordo : concord
+konkurso : competition, contest
+konsekvenco : consequence
+konstitucio : constitution
+konsulo : consul
+konsumi : to consume, use up
+kontanta : ready (money), cash
+kontesti : to contest
+konvalo : lily of the valley
+konversacii : to converse (intr)
+korekti : to correct
+korekta : correct (adj)
+koridoro : corridor
+korniko : (carrion) crow
+korvo : raven
+kosmo : cosmos, space
+kostumo : dress, costume
+kraĉi : to spit
+kranio : skull
+kredito : credit
+kresto : crest
+kristalo : crystal
+krokodilo : crocodile
+kubo : cube, dice
+kukumo : cucumber
+kukurbo : pumpkin
+kulto : cult, worship
+kuniklo : rabbit
+kupono : coupon
+kurento : current (electrical)
+kuseno : cushion
+laboratorio : laboratory
+lacerto : lizard
+laĉo : lace (of shoe)
+lado : sheet-metal
+lako : lacquer
+lanterno : lantern
+lapo : burdock
+lardo : bacon
+larvo : larva, grub
+latitudo : latitude (geographical)
+latuno : brass
+laŭbo : bower, arbour
+lekcio : lecture
+lesivo : wahing-solution
+leŭtenanto : lieutenant
+liceo : secondary school
+licenco : licence
+likvo : liquid
+lilio : lily
+limako : slug
+lino : flax
+liveri : to supply, deliver
+logiko : logic
+lojala : loyal
+lokomotivo : locomotive
+longitudo : longitude
+loto : lot (something assigned by chance)
+lotuso : lotus
+lubriki : to lubricate
+luko : skylight, porthole
+lukti : to wrestle, struggle
+luli : to lull asleep
+maizo : maize, corn
+majesta : majestic
+maksimumo : maximum
+maleolo : ankle
+malica : malicious
+malvo : mallow (flower)
+manipuli : to manipulate
+manovri : to manoeuvre
+marmelado : jam, marmalade
+maso : mass
+mato : mat
+matematiko : mathematics
+materio : matter
+medicino : medicine
+Mediteraneo : Mediterranean
+melono : melon
+mencii : to mention
+menso : mind
+menuo : menu
+metalurgio : metallurgy
+mielo : honey
+mineralo : mineral
+minimumo : minimum
+ministerio : ministry (government)
+ministro : minister (government)
+ministrejo : ministry (government)
+ĉefministro : prime-minister
+mirinda : wonderful
+mirtelo : bilberry, blueberry
+mis- : mis-
+misuzi : to misuse
+mistifiki : to hoax, fool
+modifi : to modify
+modifo : modification
+monstro : monster
+monumento : monument
+moralo : morals
+muĝi : to roar, bellow
+multipliki : to multiply (tr)
+musko : moss
+muzeo : museum
+muzelo : snout, muzzle
+najtingalo : nightingale
+neglekti : to neglect
+nenial : for no reason
+neniel : in no way
+nervoza : nervous
+nilono : nylon
+-nj- : d. fem. affect. dim.
+panjo : mummy
+nuko : nape (of neck)
+nukso : nut
+oblikva : oblique, slanting
+obstaklo : obstacle
+obstina : obstinate
+oceano : ocean
+ofendi : to offend
+oficiro : officer (military, etc)
+-op- : d. collective numerals
+duope : by twos
+opero : opera
+oponi : to oppose
+opozicii : to be in opposition
+oratoro : orator
+orienti : to orient
+orkestro : orchestra
+ortografio : orthography, spelling
+ovalo : oval (n)
+Pacifiko : Pacific Ocean
+palato : palate (of mouth)
+paliso : stake, pale (n)
+palmo : palm (tree)
+palpi : to feel (by touch)
+palpebro : eyelid
+palto : coat, overcoat
+paneo : breakdown, mechanical failure
+pantoflo : slipper
+papo : pope
+papago : parrot
+papilio : butterfly
+paradizo : paradise
+paralelo : parallel
+paraŝuto : parachute
+parlamento : parlament
+pasaĝero : passenger
+pasero : sparrow
+pavo : peacock
+pekli : to pickle
+pendolo : pendulum
+pensio : pension (retirement)
+perei : to perish, be lost
+periodo : period
+perlo : pearl
+perono : flight of steps, platform
+persiko : peach
+persisti : to persist, persevere
+pia : pious
+piano : piano
+piceo : spruce (fir-tree)
+pigo : magpie
+piloto : pilot
+pioniro : pioneer
+pipro : pepper
+plago : calamity, scourge
+plando : sole (of foot)
+plandumo : sole (of shoe), (pland/umo)
+planedo : planet
+plasto : plastic (material)
+plastiko : plastic art, modelling
+platano : plane-tree
+plenaĝa : adult (adj), (plen/aĝa)
+pliigi : to increase (tr), (pli/igi)
+plonĝi : to dive, plunge (intr)
+pluralo : plural
+po : at the rate of
+populara : popular
+porcelano : china (porcelain)
+porcio : portion
+portreto : portrait
+pra- : d. great- in great-grandfather, etc
+prelegi : to lecture
+prelego : lecture (n)
+preskribi : to prescribe
+princo : prince
+principo : principle (n)
+procento : percentage
+profesoro : professor
+profeto : prophet
+programo : programme, program (computer)
+projekto : project
+proleto : proletarian (person)
+proletario : proletarian (person)
+pronomo : pronoun
+prononci : to pronounce
+propagandi : to spread, promote, propagate
+proponi : to propose, offer, suggest
+propozicio : proposition, clause (grammar)
+prosperi : to prosper
+proverbo : proverb
+provinco : province
+provoki : to provoke, challenge
+pruno : plum
+psikologio : psychology
+pudro : powder (cosmetic, etc)
+punto : lace (fabric)
+pupilo : pupil (of eye)
+puso : pus
+rabato : rebate, discount
+racio : reason (logical faculty)
+radiatoro : radiator
+rafano : radish
+rano : frog
+raŭka : hoarse
+raŭpo : caterpillar
+reformi : to reform
+resumo : summary
+reakcio : reaction
+reakcii : to react
+reala : real
+recenzi : to review (book, etc)
+redakti : to edit
+redukti : to reduce (tr)
+reflekti : to reflect (light, etc)
+regimento : regiment
+reĝimo : regime
+rektangulo : right-angle, (rekt/angulo
+relativa : relative
+reno : kidney
+rendevuo : rendez-vous, appointment
+rento : income (unearned)
+revizii : to revise, audit, inspect
+revolucii : to revolt
+revolucio : revolution (revolt)
+rezoni : to reason
+ribo : currant
+rigida : rigid, stiff
+rimo : rhyme
+rimeno : strap
+riveli : to develop (photo), reveal
+riverenci : to bow, curtsey
+rivoluo : revolution (mechanical)
+rolo : role, part
+romano : novel
+roso : dew
+rubando : ribbon
+ruino : ruin
+rusto : rust (n)
+sago : arrow
+salato : salad
+saliko : willow
+sandviĉo : sandwich
+sarki : to weed (tr)
+satiro : satire
+sciuro : squirrel
+sekalo : rye
+sekci : to dissect
+sekcio : section
+sekura : safe, secure
+senato : senate
+sino : bosom, lap
+sindona : devoted, (sin/dona)
+singarda : careful, (sin/garda)
+sinteno : attitude, (sin/teno)
+sindikato : syndicate, trades-union
+singularo : singular
+situo : site, situation
+situacio : situation, state of affairs
+skio : ski
+skorpio : scorpion
+sledo : sledge, sleigh
+sociala : social, welfare (adj)
+sofo : sofa
+solena : solemn
+solidara : jointly responsible, interdependent
+sorbi : to absorb, sip
+sorgo : sorghum
+specimeno : specimen, sample
+spektaklo : spectacle, display
+spiko : ear (of corn)
+spinaco : spinach
+spiti : to defy, brave
+splito : splinter
+spongo : sponge
+spuro : trace, track, trail
+stadio : stage (of development)
+stadiono : stadium
+stameno : stamen
+stano : tin (metal)
+starti : to start (intr)
+statuo : statue
+staturo : stature
+sterko : dung, manure
+strigo : owl
+struto : ostrich
+subjekto : subject
+substanco : substance
+substantivo : substantive, noun
+subtila : subtle, fine
+subtrahi : to subtact
+suĉi : to suck
+sulko : wrinkle, furrow
+suplemento : supplement
+surtuto : overcoat, overall, (sur/tuto)
+susuri : to rustle, swish
+svati : to act as a matchmaker, arrange matrimony
+ŝakalo : jackal
+ŝanceli : to shake, make unstable (tr)
+ŝaŭmo : foam, froth
+ŝinko : ham (meat)
+ŝpini : to spin (into thread)
+ŝpruci : to spurt out (intr)
+ŝtipo : log (wood)
+tajpi : to type
+takto : tact
+talio : waist, waistline
+tapeto : wallpaper
+tarifo : tariff
+tegolo : tile (for roof)
+teĥniko : technique, technology
+teksto : text
+tekstprogramo : word-processor
+televidi : to watch television
+televidilo : TV set
+tendenco : tendency
+tenera : tender(-hearted)
+teraso : terrace
+teritorio : territory
+termometro : thermometer
+terni : to sneeze
+testudo : tortoise
+ties : that ones
+tigo : stem, stalk
+tigro : tiger
+tikli : to tickle (tr)
+tinkturo : dye, tincture
+tinti : to tinkle, clink
+tomato : tomato
+torento : torrent
+torto : tart, pie
+tradicio : tradition
+trafiko : traffic
+tragedio : tragedy
+tragika : tragic
+traktato : treaty
+tramo : tram
+trejni : to train, coach
+triki : to knit (tr)
+trudi : to impose, force upon
+trumpeto : trumpet
+trupo : troop
+tubero : lump, bump, knot, knob
+tufo : tuft, wisp
+tumulto : riot, tumult
+tuno : tonne
+tunelo : tunnel
+turismo : tourism
+turisto : tourist
+uniformo : uniform (n)
+unika : unique
+universala : universal
+universitato : university
+vadi : to wade
+vagi : to wander, roam
+vakso : wax
+valida : valid
+validi : to be valid
+vanta : frivolous, vain
+varti : to nurse (child)
+vegetalo : vegetable (not animal or mineral)
+vegetara : vegetarian
+vejno : vein
+veluro : velvet
+venĝi : to avenge, take vengeance
+vertico : vertex, apex
+vertikalo : vertical
+veruko : wart
+vespo : wasp
+veti : to bet, wager
+veziko : blister, bladder
+viadukto : viaduct
+viktimo : victim
+vindo : bandage, swathing
+violono : violin
+vipo : whip
+virga : virgin (adj)
+volumo : volume (tome)
+volumeno : volume (size)
+vomi : to vomit, throw up
+vulkano : volcano
+vulturo : vulture
+zinko : zink
+zoologio : zoology
+zumi : to hum, buzz
+zumado : humming, buzzing
+absceso : abcess
+abstrakta : abstract (adj)
+afikso : affix (prefix or suffix)
+akvumi : to water (plants) (akv/um/i)
+aldoni : to add (al/don/i)
+aliĝi : to become a member or participant (al/iĝ/i)
+alternativo : (an) alternative, option
+ambulanco : ambulance, field-hospital
+amfibio : amphibian (animal)
+amindumi : to court, to pet, to woo (am/ind/um/i)
+anso : (a) handle
+antaŭulo : predecessor (antaŭ/ul/o)
+antikva : antique, ancient
+arbusto : bush
+arĉo : bow (of violin)
+aresti : to arrest
+argilo : clay
+argumento : (an) argument, (a) point
+argumenti: to argue (for/against)
+aromo : aroma
+artifiko : trick, artifice
+artiklo : article (in shop)
+astro : heavenly body
+atenci : to assault, to violate
+baleno : whale
+barilo : barrier, (a) fence (bar/il/o)
+baterio : battery (electric cells, cannons,...)
+bonhavo : asset(s) (money in bank)
+bonhava: well-to-do (bon/hav/o)
+branko : gill
+broĉo : brooch
+brodi : to embroider
+bv. : please (bonvolu)
+cendo : cent
+cerbumi : to rack one's brains (cerb/um/i)
+ceremonio : ceremony
+cico : nipple
+cilindro : cylinder
+colo : inch
+ĉ. : approx. (ĉirkaŭ)
+ĉarniro : hinge
+ĉarpenti : to carpenter
+ĉasta : chaste
+ĉirkaŭaĵo : surroundings (ĉirkaŭ/aĵ/o)
+d-ro : dr. (doktoro)
+damo : Dame, lady (title), queen (in chess), king (in draughts)
+damoj : draughts (dam-ludo)
+definitiva : definitive, definite, final
+degeneri : to degenerate
+demokratio : democracy
+demokrato : democrat
+depreni : to take (sth) off (sth) (de/pren/i)
+derivi : to derive (sth)
+deveno : descent, origin (de/ven/o)
+digo : dike, embankment
+diplomo : diploma, certificate
+distili : to distil
+distrikto : district
+drinki : to drink alcoholic beverages (too much or too often)
+ekskrementoj : excrement
+faeces (:fekaĵo)
+ekstra : extra
+ekz. : e.g. (ekzemple)
+ekzemplero(j): copies
+ekzemplero : (a) copy (of book), specimen
+elipso : ellipse
+elparolo : pronunciation (el/parol/o, prononco)
+elstari : to stick out, to stand out, to contrast (with) (el/star/i)
+elstara: outstanding
+elteni : to endure, to bear (el/ten/i)
+elvoki : to call out, to bring about, to evoke (el/vok/i)
+enhavo : content(s) (en/hav/o)
+enmiksiĝi : to meddle with (en/miks/iĝ/i)
+Eo : Esperanto
+etikedo : (a) label
+etiketo : etiquette
+etoso : atmosphere (mood)
+eventuala : possible (according to circumstances)
+ezofago : gullet
+f-ino : miss (fraŭlino)
+fablo : fable
+faksi : to fax
+faksimilo : facsimile
+fakturo : invoice
+fantomo : ghost, phantom
+fariĝi : become, arise (far/iĝ/i)
+feki : defecate
+fekaĵo: faeces, droppings
+femuro : thigh
+ferdeko : deck (of ship)
+fermenti : to ferment
+fervojo : railway (fer/voj/o)
+fibro : fibre
+filtri : to filter
+fluto : flute
+formala : formal
+forpreni : take away (for/pren/i)
+foto : photo
+fumaĵi : smoke(-cure) (fish, meat) (fum/aĵ/i)
+futbalo : football (game), soccer
+futbali: to play football, soccer 
+generi : beget, generate
+ges., ges-roj : Mr. and Mrs., ladies and gentlemen (gesinjoroj)
+gimnastiko : gymnastics
+glando : gland
+gramofono : gramophone
+ĝirafo : giraffe
+helico : helix, propeller, screw (of ship)
+horaro : time-table (hor/ar/o)
+i.a. : inter aliaj
+interalie: i.a.
+indiĝeno : (a) native
+inspekti : to inspect
+instrukcio : directions, instructions
+interalie : amongst other things (inter/ali/e)
+internacia : international (inter/naci/a)
+interrompi : to interrupt (inter/romp/i)
+intertempe : in the mean time, in between (inter/temp/e)
+interveni : to intervene (inter/ven/i)
+intervjui : to interview
+inversa : inverse, reverse, contrary
+irk. : international answer coupon (of the post office) (internacia respondkupono)
+k.a. : e.a., and others (kaj aliaj)
+k.s. : kaj similaj
+kaj simile: and such
+k.t.p. : and so on, etc (kaj tiel plu).
+kalcio : calcium
+kalko : lime
+kamero : (small) dark room, cavity, camera
+kano : reed, cane
+kanguruo : kangaroo
+kanono : cannon (gun)
+kapitano : captain
+kapuĉo : hood, cowl
+kardo : thistle
+kasedo : cassette (audio or video) (kaseto)
+kaseto : cassette
+katastrofo : disaster, catastrophe
+kemio : ĥemio
+kirli : to stir
+klavo : key (piano, typewriter)
+klavaro : keyboard (klav/ar/o)
+kokso : hip
+kolbaso : sausage
+kolego : colleague
+komenti : to comment
+komplimento : compliment
+komplimenti: to compliment
+komposti : set (type)
+komputi : to compute, to meter
+komputilo: computer
+konekti : to connect, to plug in
+konko : shell (of oyster, snail)
+konkreta : concrete (not abstract)
+konsonanto : consonant
+konsterni : to appal
+konsulti : to consult
+konto : account
+kontakto : contact
+kontakti: to contact
+kontaktilo: plug
+kontinento : continent
+kontrasto : contrast
+kontribui : to contribute
+konuso : cone
+kortumo : court (of justice) (kort/um/o)
+korupti : to corrupt, to bribe
+kotizo : dues, subscription (money)
+krampo : clamp, staple, bracket, "(" (ronda krampo), "[" (rekta krampo), , "{" (kurba / onda krampo), "<" (pinta krampo)
+krampi: to staple
+kribri : to sift, to sieve
+kriterio : criterion
+kulo : gnat
+kultivi : to till, to cultivate (kulturi)
+kunsido : session, meeting (of board, committee, council) (kun/sid/o)
+kunveno : meeting, gathering (kun/ven/o)
+kursiva : in italics
+kurzo : rate of exchange
+kvereli : to quarrel
+laiko : layman
+lanugo : down, fluff
+legitimi : legitimize, authenticate
+legitimilo : identification (paper)
+liki : to leak (out of)
+literumi : to spell (letters) (liter/um/i)
+lo! : hallo! (telephone) (ha lo!)
+lotumi : to allot (lot/um/i)
+magio : magic
+magneto : magnet
+mamulo : mammal (mam/ul/o)
+maŝo : loop, mash, mail
+medio : environment, milieu
+mejlo : mile
+memstara : independent, on one's own (mem/star/a)
+mesaĝo : message
+miraklo : miracle
+mito : myth
+mitulo : mussel
+modemo : modem
+molekulo : molecule
+molusko : mollusc
+monaĥo : monk
+mortero : mortar (for building)
+motivo : motive, motif
+motivi: justify
+movado : movement (also common action) (mov/ad/o)
+murdo : (a) murder
+murdi: to murder
+n-ro : nr. (numero)
+necesejo : toilet, w.c. (neces/ej/o)
+negativa : negative
+neŭtrala : neutral
+normo : norm, standard
+novaĵo : something new, piece of news (nov/aĵ/o)
+nuanco : nuance, shade, hue
+obligacio : bond, debenture
+oksido : oxide
+organika : organic (chem)
+orgeno : organ (music)
+ostro : oyster
+paciento : patient
+paniko : panic
+parkere : by heart
+parkerigi: to learn by heart
+participo : participle
+partopreni : to participate (part/o/pren/i)
+pasiva : passive
+pedalo : pedal
+peri : purvey, act as go-between (per/i)
+peranto: agent, mediator
+piedingo : stirrup (pied/ing/o)
+pisi : to piss
+plotono : platoon
+pneŭmatiko : pneumatics, tyre
+poento : point (in scoring), mark (in school)
+poluso : pole (north, south, positive, negative)
+posteulo : successor (post/e/ul/o)
+pozitiva : positive
+pramo : ferry
+predikato : predicate (grammar)
+prefikso : prefix
+prepozicio : preposition
+prezidento : president (head of state)
+priskribi : describe (pri/skrib/i)
+projekcii : to project (film)
+proporcio : proportion, ratio
+protokolo : minutes (of meeting), official report, police warrant
+provizora : provisional
+psiko : psyche
+pulovero : pullover, jumper
+purpura : purple
+raketo : rocket
+rampulo : reptile (reptilio, ramp/ul/o)
+raso : race, breed
+rasismo: rac(ial)isme
+redakcio : editorial department
+redaktoro : editor (redaktisto)
+registaro : government (reg/ist/ar/o)
+reĝisoro : stage-manager
+reliefo : relief (sculpture)
+rentumo : interest (rent/um/o)
+reprodukti : reproduce (sth) (re/produkt/i)
+reptilio : reptile (rampulo)
+respondeca : responsible (for) (respond/ec/a)
+respondkupono : answer coupon (post office) , (also being used for small payments abroad) (respond/kupon/o)
+risorto : (a) spring
+rk. : answer coupon (respondkupono)
+rotacii : rotate (intr)
+rubo : rubble, rubbish
+rubriko : section, column, heading
+s-ino : Mrs. (sinjorino)
+s-ro : Mr. (sinjoro)
+salamandro : salamander
+saldo : balance (account)
+salivo : saliva
+satelito : satellite
+selo : saddle
+sendependa : independent (sen/de/pend/a)
+sfero : sphere
+siatempe : in his/her time, at the time (si/a/temp/e)
+silabo : syllable
+simbolo : symbol
+sinsekve : successively (si/n/sekv/e)
+siropo : syrup
+skeleto : skeleton
+skemo : schema, diagram
+skizo : (a) sketch
+skizi: to sketch
+skvamo : scale (of fish,...)
+starpunkto : standpoint (star/punkt/o)
+strikta : tight, stringent
+subaĉeti : to bribe (korupti, sub/aĉet/i)
+subskribi : to sign (sub/skrib/i)
+subskribo: signature
+subteni : to support (sub/ten/i)
+sufikso : suffix
+sugesti : to suggest
+superflua : superfluous (super/flu/a)
+ŝako : check! (in chess)
+ŝakoj : chess (game) (ŝak-ludo)
+ŝalmo : (reed-)pipe, straw (for drinking)
+ŝimo : mildew
+ŝimi: to go mouldy
+ŝlimo : slime, sludge
+ŝoki : to shock
+ŝoko: (a) shock
+t.e. : i.e., that is (tio estas)
+tajdo : tide
+tamburo : drum
+tavolo : layer
+teamo : team
+tekniko : teĥniko
+telekomuniki : communicate by telecommunication
+trabo : (wooden) beam
+transitiva : transitive
+tribo : tribe
+troviĝi : to be found, to be (somewhere) (trov/iĝ/i)
+turbano : turban
+urino : urine
+urini: to urinate (pisi)
+Usono : the United States, the USA
+vakuo : vacuum
+vando : (inside) wall, partition
+varbi : to recruit, canvass (support)
+ventumi : to winnow, to fan, to ventilate (vent/um/i)
+versio : version
+verŝajna : likely, probable (ver/ŝajn/a)
+vibri : to vibrate (intr)
+vic- : vice-, spare
+vidpunkto : point of view (vid/punkt/o)
+vinagro : vinegar
+voĉdoni : to vote (voĉ/don/i)
+vokalo : vowel
+volbo : vault (arched roof)
+vortaro : dictionary (vort/ar/o)
+zebro : zebra
+zipo : zip (fastener)
+zipi: to zip
