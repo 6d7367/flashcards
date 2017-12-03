@@ -2,6 +2,8 @@
 
 import tkinter as tk
 import random
+import threading
+import time
 
 DEFAULT_DATA_FILE = "data/eo-en.txt"
 
@@ -36,6 +38,7 @@ class FlashCardsMode(Mode):
 	def start(self, root):
 		frm1 = tk.Frame(root)
 		frm2 = tk.Frame(root)
+		frm3 = tk.Frame(root)
 
 		fnt = ("Helvetica", 29)
 
@@ -48,15 +51,27 @@ class FlashCardsMode(Mode):
 		label1 = tk.Label(frm1, textvar = self.text_top , font = fnt)
 		label2 = tk.Label(frm2, textvar = self.text_bottom, font = fnt)
 
+		self.auto = tk.IntVar()
+		checkbox = tk.Checkbutton(frm3, text = "Auto (5 seconds)", variable = self.auto)
+
+
 		label1.pack(fill = tk.BOTH)
 		label2.pack(fill = tk.BOTH)
+		checkbox.pack(side = tk.LEFT)
 
 		frm1.pack(side = tk.TOP, expand = 1)
-		frm2.pack(side = tk.BOTTOM, expand = 1)
+		frm2.pack(side = tk.TOP, expand = 1)
+		frm3.pack(side = tk.BOTTOM, fill = tk.X)
 
 		root.bind('<Button-1>', self.show_next)
 
 		self.show_next()
+
+		self.run_thread = True
+		self.thread = threading.Thread(target = self.change_auto)
+		self.thread.setDaemon(True)
+		self.thread.start()
+
 
 	def show_next(self, *args, **kwargs):
 		if self.data_len < 1:
@@ -68,6 +83,11 @@ class FlashCardsMode(Mode):
 		self.text_top.set(new_pair['original'])
 		self.text_bottom.set(new_pair['translated'])
 
+	def change_auto(self):
+		while self.run_thread:
+			if self.auto.get():
+				self.show_next()
+				time.sleep(5)
 
 
 
