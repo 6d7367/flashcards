@@ -1727,7 +1727,7 @@ civilizi : to civilise
 ĉeno : chain
 ĉerizo : cherry
 ĉerpi : to draw (water, etc), to extract
-dependi : to depend, (de/pendi)
+dependi : to depend
 sendependa : independent
 dediĉi : to dedicate
 deficito : deficit
@@ -1756,7 +1756,7 @@ eksperimento : experiment
 eksplodi : to explode (intr)
 ekstrema : extreme
 ekvilibro : equilibrium, balance (n)
-elturniĝi : to escape, extricate oneself, (el/turn/iĝi)
+elturniĝi : to escape, extricate oneself
 elefanto : elefant
 eleganta : elegant
 eminenta : eminent, distinguished
@@ -1921,7 +1921,7 @@ listigi : to list (tr)
 literaturo : literature
 lupo : wolf
 maĉi : to chew
-malvarmumo : cold (illness), (mal/varm/umo)
+malvarmumo : cold (illness)
 mamo : breast, udder
 mamulo : mammal
 mandato : mandate
@@ -2132,7 +2132,7 @@ traktoro : tractor
 trempi : to dip, immerse
 treni : to drag, tow
 trezoro : treasure
-triangulo : triangle, (tri/agulo)
+triangulo : triangle
 tribunalo : tribunal, court (of justice)
 trikoto : stockinet
 trotuaro : pavement (side of road)
@@ -2241,7 +2241,7 @@ bindi : to bind (books)
 blasfemi : to blaspheme, swear
 bleki : to cry (of animals)
 bloko : block
-bonvoli : to be so good as to (bon/voli)
+bonvoli : to be so good as to
 bonvole : please
 borso : stock-exchange
 bovlo : bowl
@@ -2303,7 +2303,7 @@ denunci : to denounce
 deponi : to deposit
 deputi : to depute
 determini : to determine
-devontigi : to compel, (dev/ont/igi)
+devontigi : to compel
 dialogo : dialogue
 dianto : carnation
 dieto : diet
@@ -2346,7 +2346,7 @@ enketi : to investigate
 epidemio : epidemic
 -er- : d. unit
 eskapi : to escape
-estigi : to bring about, (est/igi)
+estigi : to bring about
 establi : to establish
 etapo : stage, step
 etato : statement, returns
@@ -2379,7 +2379,7 @@ fliki : to patch, mend
 fluido : fluid
 flustri : to whisper
 fontano : fountain
-foresti : to be absent, (for/esti)
+foresti : to be absent
 formiko : ant
 formulo : formula
 fotelo : arm-chair
@@ -2429,7 +2429,7 @@ halo : hall, large room
 hangaro : hangar (for aircraft)
 haringo : herring
 harmonio : harmony
-havigi : to procure, get, (hav/igi)
+havigi : to procure, get
 hazardo : chance, accident
 heĝo : hedge
 hektaro : hectare
@@ -2488,7 +2488,7 @@ kakao : cocoa
 kakto : cactus
 kalo : corn (on foot)
 kaldrono : boiler
-kalkanumo : heel (of shoe), (kalkan/umo)
+kalkanumo : heel (of shoe)
 kalumnii : to slander, libel, malign
 kamelo : camel
 kanalo : canal, channel
@@ -2535,7 +2535,7 @@ kompliki : to complicate
 komplika : complicated
 komponi : to compose (music, chemical)
 kompromiti : to compromise, jeapardise
-komunumo : community, (komun/umo)
+komunumo : community
 koncentri : to concentrate (make denser)
 koncepto : concept
 konfidenco : confidence
@@ -2707,13 +2707,13 @@ pioniro : pioneer
 pipro : pepper
 plago : calamity, scourge
 plando : sole (of foot)
-plandumo : sole (of shoe), (pland/umo)
+plandumo : sole (of shoe)
 planedo : planet
 plasto : plastic (material)
 plastiko : plastic art, modelling
 platano : plane-tree
-plenaĝa : adult (adj), (plen/aĝa)
-pliigi : to increase (tr), (pli/igi)
+plenaĝa : adult (adj)
+pliigi : to increase (tr)
 plonĝi : to dive, plunge (intr)
 pluralo : plural
 po : at the rate of
@@ -2767,7 +2767,7 @@ redukti : to reduce (tr)
 reflekti : to reflect (light, etc)
 regimento : regiment
 reĝimo : regime
-rektangulo : right-angle, (rekt/angulo
+rektangulo : right-angle
 relativa : relative
 reno : kidney
 rendevuo : rendez-vous, appointment
@@ -2802,9 +2802,9 @@ sekcio : section
 sekura : safe, secure
 senato : senate
 sino : bosom, lap
-sindona : devoted, (sin/dona)
-singarda : careful, (sin/garda)
-sinteno : attitude, (sin/teno)
+sindona : devoted
+singarda : careful
+sinteno : attitude
 sindikato : syndicate, trades-union
 singularo : singular
 situo : site, situation
@@ -2844,7 +2844,7 @@ subtrahi : to subtact
 suĉi : to suck
 sulko : wrinkle, furrow
 suplemento : supplement
-surtuto : overcoat, overall, (sur/tuto)
+surtuto : overcoat, overall
 susuri : to rustle, swish
 svati : to act as a matchmaker, arrange matrimony
 ŝakalo : jackal
@@ -2939,38 +2939,38 @@ zumado : humming, buzzing
 absceso : abcess
 abstrakta : abstract (adj)
 afikso : affix (prefix or suffix)
-akvumi : to water (plants) (akv/um/i)
-aldoni : to add (al/don/i)
-aliĝi : to become a member or participant (al/iĝ/i)
+akvumi : to water (plants)
+aldoni : to add
+aliĝi : to become a member or participant
 alternativo : (an) alternative, option
 ambulanco : ambulance, field-hospital
 amfibio : amphibian (animal)
-amindumi : to court, to pet, to woo (am/ind/um/i)
+amindumi : to court, to pet, to woo
 anso : (a) handle
-antaŭulo : predecessor (antaŭ/ul/o)
+antaŭulo : predecessor
 antikva : antique, ancient
 arbusto : bush
 arĉo : bow (of violin)
 aresti : to arrest
 argilo : clay
 argumento : (an) argument, (a) point
-argumenti: to argue (for/against)
+argumenti: to argue
 aromo : aroma
 artifiko : trick, artifice
 artiklo : article (in shop)
 astro : heavenly body
 atenci : to assault, to violate
 baleno : whale
-barilo : barrier, (a) fence (bar/il/o)
+barilo : barrier, (a) fence
 baterio : battery (electric cells, cannons,...)
 bonhavo : asset(s) (money in bank)
-bonhava: well-to-do (bon/hav/o)
+bonhava: well-to-do
 branko : gill
 broĉo : brooch
 brodi : to embroider
 bv. : please (bonvolu)
 cendo : cent
-cerbumi : to rack one's brains (cerb/um/i)
+cerbumi : to rack one's brains
 ceremonio : ceremony
 cico : nipple
 cilindro : cylinder
@@ -2979,7 +2979,7 @@ colo : inch
 ĉarniro : hinge
 ĉarpenti : to carpenter
 ĉasta : chaste
-ĉirkaŭaĵo : surroundings (ĉirkaŭ/aĵ/o)
+ĉirkaŭaĵo : surroundings
 d-ro : dr. (doktoro)
 damo : Dame, lady (title), queen (in chess), king (in draughts)
 damoj : draughts (dam-ludo)
@@ -2987,9 +2987,9 @@ definitiva : definitive, definite, final
 degeneri : to degenerate
 demokratio : democracy
 demokrato : democrat
-depreni : to take (sth) off (sth) (de/pren/i)
+depreni : to take (sth) off (sth)
 derivi : to derive (sth)
-deveno : descent, origin (de/ven/o)
+deveno : descent, origin
 digo : dike, embankment
 diplomo : diploma, certificate
 distili : to distil
@@ -3002,13 +3002,13 @@ ekz. : e.g. (ekzemple)
 ekzemplero(j): copies
 ekzemplero : (a) copy (of book), specimen
 elipso : ellipse
-elparolo : pronunciation (el/parol/o, prononco)
-elstari : to stick out, to stand out, to contrast (with) (el/star/i)
+elparolo : pronunciation
+elstari : to stick out, to stand out, to contrast (with)
 elstara: outstanding
-elteni : to endure, to bear (el/ten/i)
-elvoki : to call out, to bring about, to evoke (el/vok/i)
-enhavo : content(s) (en/hav/o)
-enmiksiĝi : to meddle with (en/miks/iĝ/i)
+elteni : to endure, to bear
+elvoki : to call out, to bring about, to evoke
+enhavo : content(s)
+enmiksiĝi : to meddle with
 Eo : Esperanto
 etikedo : (a) label
 etiketo : etiquette
@@ -3021,20 +3021,20 @@ faksi : to fax
 faksimilo : facsimile
 fakturo : invoice
 fantomo : ghost, phantom
-fariĝi : become, arise (far/iĝ/i)
+fariĝi : become, arise
 feki : defecate
 fekaĵo: faeces, droppings
 femuro : thigh
 ferdeko : deck (of ship)
 fermenti : to ferment
-fervojo : railway (fer/voj/o)
+fervojo : railway
 fibro : fibre
 filtri : to filter
 fluto : flute
 formala : formal
-forpreni : take away (for/pren/i)
+forpreni : take away
 foto : photo
-fumaĵi : smoke(-cure) (fish, meat) (fum/aĵ/i)
+fumaĵi : smoke(-cure) (fish, meat)
 futbalo : football (game), soccer
 futbali: to play football, soccer 
 generi : beget, generate
@@ -3044,17 +3044,17 @@ glando : gland
 gramofono : gramophone
 ĝirafo : giraffe
 helico : helix, propeller, screw (of ship)
-horaro : time-table (hor/ar/o)
+horaro : time-table
 i.a. : inter aliaj
 interalie: i.a.
 indiĝeno : (a) native
 inspekti : to inspect
 instrukcio : directions, instructions
-interalie : amongst other things (inter/ali/e)
-internacia : international (inter/naci/a)
-interrompi : to interrupt (inter/romp/i)
-intertempe : in the mean time, in between (inter/temp/e)
-interveni : to intervene (inter/ven/i)
+interalie : amongst other things
+internacia : international
+interrompi : to interrupt
+intertempe : in the mean time, in between
+interveni : to intervene
 intervjui : to interview
 inversa : inverse, reverse, contrary
 irk. : international answer coupon (of the post office) (internacia respondkupono)
@@ -3077,7 +3077,7 @@ katastrofo : disaster, catastrophe
 kemio : ĥemio
 kirli : to stir
 klavo : key (piano, typewriter)
-klavaro : keyboard (klav/ar/o)
+klavaro : keyboard
 kokso : hip
 kolbaso : sausage
 kolego : colleague
@@ -3101,7 +3101,7 @@ kontinento : continent
 kontrasto : contrast
 kontribui : to contribute
 konuso : cone
-kortumo : court (of justice) (kort/um/o)
+kortumo : court (of justice)
 korupti : to corrupt, to bribe
 kotizo : dues, subscription (money)
 krampo : clamp, staple, bracket, "(" (ronda krampo), "[" (rekta krampo), , "{" (kurba / onda krampo), "<" (pinta krampo)
@@ -3110,8 +3110,8 @@ kribri : to sift, to sieve
 kriterio : criterion
 kulo : gnat
 kultivi : to till, to cultivate (kulturi)
-kunsido : session, meeting (of board, committee, council) (kun/sid/o)
-kunveno : meeting, gathering (kun/ven/o)
+kunsido : session, meeting (of board, committee, council)
+kunveno : meeting, gathering
 kursiva : in italics
 kurzo : rate of exchange
 kvereli : to quarrel
@@ -3120,16 +3120,16 @@ lanugo : down, fluff
 legitimi : legitimize, authenticate
 legitimilo : identification (paper)
 liki : to leak (out of)
-literumi : to spell (letters) (liter/um/i)
+literumi : to spell (letters)
 lo! : hallo! (telephone) (ha lo!)
-lotumi : to allot (lot/um/i)
+lotumi : to allot
 magio : magic
 magneto : magnet
-mamulo : mammal (mam/ul/o)
+mamulo : mammal
 maŝo : loop, mash, mail
 medio : environment, milieu
 mejlo : mile
-memstara : independent, on one's own (mem/star/a)
+memstara : independent, on one's own
 mesaĝo : message
 miraklo : miracle
 mito : myth
@@ -3141,15 +3141,15 @@ monaĥo : monk
 mortero : mortar (for building)
 motivo : motive, motif
 motivi: justify
-movado : movement (also common action) (mov/ad/o)
+movado : movement (also common action)
 murdo : (a) murder
 murdi: to murder
 n-ro : nr. (numero)
-necesejo : toilet, w.c. (neces/ej/o)
+necesejo : toilet, w.c.
 negativa : negative
 neŭtrala : neutral
 normo : norm, standard
-novaĵo : something new, piece of news (nov/aĵ/o)
+novaĵo : something new, piece of news
 nuanco : nuance, shade, hue
 obligacio : bond, debenture
 oksido : oxide
@@ -3161,25 +3161,25 @@ paniko : panic
 parkere : by heart
 parkerigi: to learn by heart
 participo : participle
-partopreni : to participate (part/o/pren/i)
+partopreni : to participate
 pasiva : passive
 pedalo : pedal
-peri : purvey, act as go-between (per/i)
+peri : purvey, act as go-between
 peranto: agent, mediator
-piedingo : stirrup (pied/ing/o)
+piedingo : stirrup
 pisi : to piss
 plotono : platoon
 pneŭmatiko : pneumatics, tyre
 poento : point (in scoring), mark (in school)
 poluso : pole (north, south, positive, negative)
-posteulo : successor (post/e/ul/o)
+posteulo : successor
 pozitiva : positive
 pramo : ferry
 predikato : predicate (grammar)
 prefikso : prefix
 prepozicio : preposition
 prezidento : president (head of state)
-priskribi : describe (pri/skrib/i)
+priskribi : describe
 projekcii : to project (film)
 proporcio : proportion, ratio
 protokolo : minutes (of meeting), official report, police warrant
@@ -3188,19 +3188,19 @@ psiko : psyche
 pulovero : pullover, jumper
 purpura : purple
 raketo : rocket
-rampulo : reptile (reptilio, ramp/ul/o)
+rampulo : reptile
 raso : race, breed
 rasismo: rac(ial)isme
 redakcio : editorial department
 redaktoro : editor (redaktisto)
-registaro : government (reg/ist/ar/o)
+registaro : government
 reĝisoro : stage-manager
 reliefo : relief (sculpture)
-rentumo : interest (rent/um/o)
-reprodukti : reproduce (sth) (re/produkt/i)
+rentumo : interest
+reprodukti : reproduce (sth)
 reptilio : reptile (rampulo)
-respondeca : responsible (for) (respond/ec/a)
-respondkupono : answer coupon (post office) , (also being used for small payments abroad) (respond/kupon/o)
+respondeca : responsible (for)
+respondkupono : answer coupon (post office) , (also being used for small payments abroad)
 risorto : (a) spring
 rk. : answer coupon (respondkupono)
 rotacii : rotate (intr)
@@ -3213,29 +3213,29 @@ saldo : balance (account)
 salivo : saliva
 satelito : satellite
 selo : saddle
-sendependa : independent (sen/de/pend/a)
+sendependa : independent
 sfero : sphere
-siatempe : in his/her time, at the time (si/a/temp/e)
+siatempe : in his/her time, at the time
 silabo : syllable
 simbolo : symbol
-sinsekve : successively (si/n/sekv/e)
+sinsekve : successively
 siropo : syrup
 skeleto : skeleton
 skemo : schema, diagram
 skizo : (a) sketch
 skizi: to sketch
 skvamo : scale (of fish,...)
-starpunkto : standpoint (star/punkt/o)
+starpunkto : standpoint
 strikta : tight, stringent
-subaĉeti : to bribe (korupti, sub/aĉet/i)
-subskribi : to sign (sub/skrib/i)
+subaĉeti : to bribe
+subskribi : to sign
 subskribo: signature
-subteni : to support (sub/ten/i)
+subteni : to support
 sufikso : suffix
 sugesti : to suggest
-superflua : superfluous (super/flu/a)
+superflua : superfluous
 ŝako : check! (in chess)
-ŝakoj : chess (game) (ŝak-ludo)
+ŝakoj : chess (game)
 ŝalmo : (reed-)pipe, straw (for drinking)
 ŝimo : mildew
 ŝimi: to go mouldy
@@ -3252,7 +3252,7 @@ telekomuniki : communicate by telecommunication
 trabo : (wooden) beam
 transitiva : transitive
 tribo : tribe
-troviĝi : to be found, to be (somewhere) (trov/iĝ/i)
+troviĝi : to be found, to be (somewhere)
 turbano : turban
 urino : urine
 urini: to urinate (pisi)
@@ -3260,17 +3260,17 @@ Usono : the United States, the USA
 vakuo : vacuum
 vando : (inside) wall, partition
 varbi : to recruit, canvass (support)
-ventumi : to winnow, to fan, to ventilate (vent/um/i)
+ventumi : to winnow, to fan, to ventilate
 versio : version
-verŝajna : likely, probable (ver/ŝajn/a)
+verŝajna : likely, probable
 vibri : to vibrate (intr)
 vic- : vice-, spare
-vidpunkto : point of view (vid/punkt/o)
+vidpunkto : point of view
 vinagro : vinegar
-voĉdoni : to vote (voĉ/don/i)
+voĉdoni : to vote
 vokalo : vowel
 volbo : vault (arched roof)
-vortaro : dictionary (vort/ar/o)
+vortaro : dictionary
 zebro : zebra
 zipo : zip (fastener)
 zipi: to zip
