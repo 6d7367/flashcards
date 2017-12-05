@@ -34,36 +34,40 @@ class Mode():
 	def show_next(self, *args, **kwargs):
 		pass
 
+	def remove(self):
+		pass
+
 class FlashCardsMode(Mode):
 	def start(self, root):
-		frm1 = tk.Frame(root)
-		frm2 = tk.Frame(root)
-		frm3 = tk.Frame(root)
+		self.root = root
+		self.frm1 = tk.Frame(self.root)
+		self.frm2 = tk.Frame(self.root)
+		self.frm3 = tk.Frame(self.root)
 
 		fnt = ("Helvetica", 29)
 
-		self.text_top = tk.StringVar(root)
+		self.text_top = tk.StringVar(self.root)
 		self.text_top.set("")
 
-		self.text_bottom = tk.StringVar(root)
+		self.text_bottom = tk.StringVar(self.root)
 		self.text_bottom.set("")
 
-		label1 = tk.Label(frm1, textvar = self.text_top , font = fnt)
-		label2 = tk.Label(frm2, textvar = self.text_bottom, font = fnt)
+		label1 = tk.Label(self.frm1, textvar = self.text_top , font = fnt)
+		label2 = tk.Label(self.frm2, textvar = self.text_bottom, font = fnt)
 
 		self.auto = tk.IntVar()
-		checkbox = tk.Checkbutton(frm3, text = "Auto (5 seconds)", variable = self.auto)
+		checkbox = tk.Checkbutton(self.frm3, text = "Auto (5 seconds)", variable = self.auto)
 
 
 		label1.pack(fill = tk.BOTH)
 		label2.pack(fill = tk.BOTH)
 		checkbox.pack(side = tk.LEFT)
 
-		frm1.pack(side = tk.TOP, expand = 1)
-		frm2.pack(side = tk.TOP, expand = 1)
-		frm3.pack(side = tk.BOTTOM, fill = tk.X)
+		self.frm1.pack(side = tk.TOP, expand = 1)
+		self.frm2.pack(side = tk.TOP, expand = 1)
+		self.frm3.pack(side = tk.BOTTOM, fill = tk.X)
 
-		root.bind('<Button-1>', self.show_next)
+		self.root.bind('<Button-1>', self.show_next)
 
 		self.show_next()
 
@@ -74,6 +78,7 @@ class FlashCardsMode(Mode):
 
 
 	def show_next(self, *args, **kwargs):
+		print('FlashCardsMode.show_next')
 		if self.data_len < 1:
 			return
 
@@ -89,18 +94,26 @@ class FlashCardsMode(Mode):
 				self.show_next()
 				time.sleep(5)
 
+	def remove(self):
+		self.frm1.destroy()
+		self.frm2.destroy()
+		self.frm3.destroy()
+
+		self.root.unbind('<Button-1>')
+		pass
+
 class QuestionMode(Mode):
 	def start(self, root):
-		question_frame = tk.Frame(root)
-		choices_frame = tk.Frame(root)
-		next_frame = tk.Frame(root)
+		self.question_frame = tk.Frame(root)
+		self.choices_frame = tk.Frame(root)
+		self.next_frame = tk.Frame(root)
 
 		style_question = ("Helvetica", 29)
 		style_choice = ("Helvetica", 18)
 
 		self.question_var = tk.StringVar(root)
 		self.question_var.set("?")
-		question_label = tk.Label(question_frame, textvar = self.question_var , font = style_question)
+		question_label = tk.Label(self.question_frame, textvar = self.question_var , font = style_question)
 
 		self.answer_variable = tk.IntVar()
 		self.choices = {}
@@ -114,23 +127,24 @@ class QuestionMode(Mode):
 			choice_text_var.set("choice {}".format(i))
 			self.choices[i] = {
 				"text_var": choice_text_var,
-				"radio": tk.Radiobutton(choices_frame, fg = self.default_color, textvar = choice_text_var, value = i, variable = self.answer_variable, command = self._check_answer, font = style_choice),
+				"radio": tk.Radiobutton(self.choices_frame, fg = self.default_color, textvar = choice_text_var, value = i, variable = self.answer_variable, command = self._check_answer, font = style_choice),
 				"is_true": False,
 			}
 			self.choices[i]["radio"].pack(anchor = tk.W)
 
-		tk.Button(next_frame, text = ">>", command = self.show_next).pack(pady = 10)
+		tk.Button(self.next_frame, text = ">>", command = self.show_next).pack(pady = 10)
 
 
 		question_label.pack(fill = tk.BOTH)
 
-		question_frame.pack(side = tk.TOP, expand = 1)
-		choices_frame.pack(side = tk.TOP, expand = 1)
-		next_frame.pack(side = tk.BOTTOM, fill = tk.X)
+		self.question_frame.pack(side = tk.TOP, expand = 1)
+		self.choices_frame.pack(side = tk.TOP, expand = 1)
+		self.next_frame.pack(side = tk.BOTTOM, fill = tk.X)
 
 		self.show_next()
 
 	def show_next(self, *args, **kwargs):
+		print('QuestionMode.show_next')
 		self._default_choices_colors()
 
 		new_choices = self._next_questions()
@@ -174,21 +188,45 @@ class QuestionMode(Mode):
 			if choice["is_true"]:
 				choice["radio"].configure(fg = self.right_color)
 
+	def remove(self):
+		self.question_frame.destroy()
+		self.choices_frame.destroy()
+		self.next_frame.destroy()
+
 
 
 
 class App(tk.Tk):
-	def __init__(self, mode):
+	def __init__(self, path_to_dict, modes):
 		super().__init__()
 
 		self.geometry('700x400')
 		self.title('Flash Cards')
 
-		self.mode = mode
+		self.path_to_dict = path_to_dict
+		self.modes = modes
+		self.mode = None
+
+
+		top_frame = tk.Frame(self)
+
+
+		tk.Button(top_frame, text = "Dict", command = lambda: self.change_mode(0) ).grid(row = 0, column = 0, sticky=tk.W+tk.E)
+		tk.Button(top_frame, text = "Quiz", command = lambda: self.change_mode(1) ).grid(row = 0, column = 1, sticky=tk.W+tk.E)
+
+		top_frame.pack(fill = tk.X)
+		top_frame.columnconfigure(0, weight = 1)
+		top_frame.columnconfigure(1, weight = 1)
+
+	def change_mode(self, mode_number):
+		if self.mode:
+			self.mode.remove()
+			del self.mode
+
+		self.mode = self.modes[mode_number](self.path_to_dict)
 		self.mode.start(self)
 
-if __name__ == '__main__':
-	mode = QuestionMode(DEFAULT_DATA_FILE)
-	app = App(mode)
 
+if __name__ == '__main__':
+	app = App(DEFAULT_DATA_FILE, [ FlashCardsMode, QuestionMode ])
 	app.mainloop()
