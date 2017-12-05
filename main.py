@@ -78,7 +78,7 @@ class FlashCardsMode(Mode):
 
 
 	def show_next(self, *args, **kwargs):
-		print('FlashCardsMode.show_next')
+		# print('FlashCardsMode.show_next')
 		if self.data_len < 1:
 			return
 
@@ -144,7 +144,7 @@ class QuestionMode(Mode):
 		self.show_next()
 
 	def show_next(self, *args, **kwargs):
-		print('QuestionMode.show_next')
+		# print('QuestionMode.show_next')
 		self._default_choices_colors()
 
 		new_choices = self._next_questions()
@@ -217,6 +217,8 @@ class App(tk.Tk):
 		top_frame.pack(fill = tk.X)
 		top_frame.columnconfigure(0, weight = 1)
 		top_frame.columnconfigure(1, weight = 1)
+
+		self.change_mode(0)
 
 	def change_mode(self, mode_number):
 		if self.mode:
