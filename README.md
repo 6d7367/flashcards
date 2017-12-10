@@ -1,4 +1,8 @@
 # flashcards
 simple flashcards app
 
-![screenshot.png](doc/screenshot.png)
+Dictionary mode
+![screenshot1.png](doc/screenshot1.png)
+
+Quiz mode
+![screenshot2.png](doc/screenshot2.png)
